@@ -1,3 +1,11 @@
+
+Pushing commit:
+-make shure you have your own branch
+-push only in your branch
+-your branchName is your Surname
+Restrictions:
 -never DELETE commits
 -never DELETE branches
 -!!!never push into MASTER!!!
+Have some questions? Call Vaniok)
+
