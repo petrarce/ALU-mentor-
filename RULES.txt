@@ -1,0 +1,3 @@
+-never DELETE commits
+-never DELETE branches
+-!!!never push into MASTER!!!
