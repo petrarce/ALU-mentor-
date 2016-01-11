@@ -1,0 +1,17 @@
+Cell Editor Version: 2012.0.514.029
+
+
+
+Environment Variables:
+----------------------
+VALOR_ENV_FILE = "C:\MentorGraphics\7.9.5EE\SDD_HOME\Valor_NPI\env"
+HOMEDRIVE = "C:"
+HOMEPATH = "\Users\Ivan"
+MGC_HOME = "C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn"
+MGC_TMPDIR = "C:\Users\Ivan\AppData\Local\Temp"
+OS = "Windows_NT"
+PATH = "C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\lib;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\7-Zip;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft Windows Performance Toolkit\;D:\kpi\II\soft\ML2014A\runtime\win64;D:\kpi\II\soft\ML2014A\bin;D:\kpi\II\soft\ML2014A\polyspace\bin;C:\Program Files (x86)\Skype\Phone\;C:\cygwin-1.7.9DMS\bin;C:\Program Files\Git;C:\Program Files\QuartusII\modelsim_ase\win32aloem;C:\Program Files (x86)\MentorGraphics\9.5PADS\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib"
+QUARTUS_ROOTDIR = "C:\Program Files\QuartusII\quartus"
+SDD_HOME = "C:\MentorGraphics\7.9.5EE\SDD_HOME"
+TEMP = "C:\Users\Ivan\AppData\Local\Temp"
+TMP = "C:\Users\Ivan\AppData\Local\Temp"

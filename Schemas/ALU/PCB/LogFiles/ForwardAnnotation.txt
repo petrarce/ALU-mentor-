@@ -1,0 +1,141 @@
+
+                               Forward Annotation
+                               ------------------
+
+                       02:15 PM Saturday, January 09, 2016
+              Job Name: K:\KompElek\Alu-Mentor2\ALU\PCB\Board1.pcb
+
+
+Version:  01.01.00
+
+     The PDBs listed in the project file will be searched to satisfy the parts
+      requirements of the iCDB only for parts not already found in the
+      Target PDB.
+
+     The schematic source is a Common Data Base.
+
+     The AllowAlphaRefDes status indicates that reference
+      designators containing all alpha characters should be deleted
+      and the relevant symbols repackaged.
+
+
+
+     Common Data Base has been read
+
+     Target PDB Name: Work\Layout_Temp\PartsDB.pdb
+
+     Number of Part Numbers: 4
+          Part Numb: NOT -> Vend Part: NOT 
+          Part Numb: OR -> Vend Part: OR 
+          Part Numb: 4BitPSReg -> Vend Part: 4BitPSReg 
+          Part Numb: 8BitPSReg -> Vend Part: 8BitPSReg 
+
+     Number of Part Names: 0
+
+     Number of Part Labels: 0
+
+
+     Checking for value differences between symbol properties and PartsDB properties
+
+     Checking the validity of the packaging of prepackaged schematic
+      symbols.  Only the first error in symbols having the same
+      Reference Designator will be reported.
+
+     The packaging of all prepackaged schematic symbols is consistent
+      with the Parts DataBase data for the cross mapping of
+      symbol pin names to Part Number pin numbers.
+      Symbols that were not prepackaged will now be packaged correctly.
+      
+     No errors in Existing Schematic Packaging.
+
+     The Common DataBase has been read and will be packaged.
+     Clustering 5 Symbols:
+               5  ****
+     Clustering is Complete
+
+     Packager Assignments successfully completed
+
+
+
+     38 nets were found containing 57 pins
+     5 components were found
+
+     Creating a formatted Schematic Netlist (LogFiles\SchematicNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+     The Logic DataBase has been compiled from the Schematic Design.
+      Use Netload to bring the Component Design into sync.
+
+     Logic Data has been successfully Compiled with no errors or warnings.
+      Please proceed with your component Design.
+                                     NetLoad
+                                     -------
+
+                       02:15 PM Saturday, January 09, 2016
+              Job Name: K:\KompElek\Alu-Mentor2\ALU\PCB\Board1.pcb
+
+
+Version:  02.11.12
+
+	Netloading the Layout.  Unused components will be changed to spares.
+
+	Unconnected pins will be set to net "(Net0)".
+
+	Schematic reference designator changes will be forward annotated.
+
+
+	WARNING:  "AND1" is being removed from the Layout since it is no longer in the schematic.
+
+     The following 5 components have not been placed:
+
+        NOT1
+        OReg1
+        OReg2
+        OR1
+        QReg1
+
+     Netload completed successfully with 1 warning(s).
+     
+     Back Annotating...
+
+  Updating Logic Database...
+
+     Version:  99.00.05
+
+     No changes made to Existing Schematic Packaging.
+
+
+     There is no symbol data to be back annotated to the schematic source.
+
+
+     The Logic DataBase has been updated and the Common DataBase has
+      automatically been brought into sync with the Logic DataBase.
+      Please proceed with your design.
+
+     Finished updating the Logic Database.
+
+     Creating a formatted Schematic Netlist (LogFiles\AfterBakAnnoNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+     Creating a new netlist text file (LogFiles\KeyinNetList.txt)
+      from the Logic Database (Work\Layout_Temp\LogicDB.lgc)...
+  A new netlist text file has been generated.
+
+
+
+                 Beginning Netload on the Layout Design.
+           ---------------------------------------------------
+
+Some nets were completely deleted from the Layout Design....
+	Deleted net AND_B1, which has no pins, from the Layout Design.
+	Deleted net AND_A1, which has no pins, from the Layout Design.
+	Deleted net AND_A2, which has no pins, from the Layout Design.
+	Deleted net AND_B2, which has no pins, from the Layout Design.
+	Deleted net AND_Y1, which has no pins, from the Layout Design.
+	Deleted net AND_Y2, which has no pins, from the Layout Design.
+
+Forward-Annotation on the Layout Design has been successfully completed.
+
+There were 0 reassignments of nets.
+There were 0 traces broken back.
+There were 6 nets removed from the Layout Design.

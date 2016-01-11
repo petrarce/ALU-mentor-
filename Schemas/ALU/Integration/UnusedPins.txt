@@ -1,0 +1,16 @@
+
+Schematic unused pins from : Packager  9-Jan-2016  22:20
+
+------------------------------------------------------------------------
+            Part/Reference             |          Unused pins
+                                       |  (G) - Gate, (P) - Partial Gate
+------------------------------------------------------------------------
+ Part NOT                              |
+  NOT1                                 | (P)  13 12 11 9 8 10 5 6
+ Part OR                               |
+  OR1                                  | (P)  4 5 6 13 12 11 10 9 8
+ Part 4BitPSReg                        |
+  QReg1                                | (P)  2 7 6 12
+ Part 8BitPSReg                        |
+  OReg1                                | (P)  2 11
+  OReg2                                | (P)  2 11

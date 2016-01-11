@@ -1,0 +1,15 @@
+
+Board Area = (th) 23.310.000
+
+Layer = 1
+	CopperArea = (th) 69.561,26
+	Percent Board = 0,3%
+Layer = 2
+	CopperArea = (th) 5.309,29
+	Percent Board = 0,02%
+Layer = 3
+	CopperArea = (th) 5.309,29
+	Percent Board = 0,02%
+Layer = 4
+	CopperArea = (th) 5.309,29
+	Percent Board = 0,02%

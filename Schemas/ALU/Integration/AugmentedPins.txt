@@ -1,0 +1,18 @@
+
+------------------------------------------------------------------------
+            Part/Reference             | Pin | Augmented Net Name
+------------------------------------------------------------------------
+ Part 8BitPSReg                        |
+       OReg2                           |   24| VCC
+       OReg2                           |   12| GND
+       OReg1                           |   24| VCC
+       OReg1                           |   12| GND
+ Part 4BitPSReg                        |
+       QReg1                           |   16| VCC
+       QReg1                           |    8| GND
+ Part OR                               |
+       OR1                             |   14| VCC
+       OR1                             |    7| GND
+ Part NOT                              |
+       NOT1                            |   14| VCC
+       NOT1                            |    7| GND

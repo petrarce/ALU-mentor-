@@ -1,0 +1,330 @@
+[2016.01.06 18:45:34] [0000m.00s.048ms] [0] WELCOME
+[2016.01.06 18:45:34] [0000m.00s.049ms] [1] iCDB Server ver.1.094, vt40T8RtWJOG2cE2Nlvc5A, build:535943 created 2013-01-08 09:09:26, sources stamp:vt40T8RtWJOG2cE2Nlvc5A
+[2016.01.06 18:45:34] [0000m.00s.049ms] [1] Copyright 2013 Mentor Graphics Corporation. All Rights Reserved.
+[2016.01.06 18:45:34] [0000m.00s.049ms] [1] Base flow version [7.9.4]
+[2016.01.06 18:45:34] [0000m.00s.049ms] [1] GBS Install Id [30163], Flow Id [EE7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2016.01.06 18:45:34] [0000m.00s.050ms] [1] Machine [IVAN-ой]  User [Ivan]  PID [1280]
+[2016.01.06 18:45:34] [0000m.00s.050ms] [1] Operating system [Microsoft Windows 7 Ultimate Edition, 64-bit Service Pack 1 (build 7601)]
+[2016.01.06 18:45:34] [0000m.00s.050ms] [1] Current working dir [K:\KompElek\Alu-Mentor2\ALU]
+[2016.01.06 18:45:34] [0000m.00s.050ms] [1] PATH [C:\MentorGraphics\7.9.5EE\SDD_HOME\wv\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\lib;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\7-Zip;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft Windows Performance Toolkit\;D:\kpi\II\soft\ML2014A\runtime\win64;D:\kpi\II\soft\ML2014A\bin;D:\kpi\II\soft\ML2014A\polyspace\bin;C:\cygwin-1.7.9DMS\bin;C:\Program Files\Git;C:\Program Files\QuartusII\modelsim_ase\win32aloem;C:\Program Files (x86)\MentorGraphics\9.5PADS\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib]
+[2016.01.06 18:45:34] [0000m.00s.050ms] [1] SDD_HOME [C:\MentorGraphics\7.9.5EE\SDD_HOME] on file system [NTFS]
+[2016.01.06 18:45:34] [0000m.00s.050ms] [1] SDD_PLATFORM [win32]
+[2016.01.06 18:45:34] [0000m.00s.050ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\7.9.5EE\SDD_HOME\standard]
+[2016.01.06 18:45:34] [0000m.00s.050ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2016.01.06 18:45:34] [0000m.00s.051ms] [2] S: Loading config files
+[2016.01.06 18:45:34] [0000m.00s.054ms] [1] Config file [K:\KompElek\Alu-Mentor2\ALU\database\cdbsvr\Server.cfg] not found
+[2016.01.06 18:45:34] [0000m.00s.056ms] [3] S: Config loaded
+[2016.01.06 18:45:34] [0000m.00s.057ms] [0] S: Project path [K:\KompElek\Alu-Mentor2\ALU\database] on file system [NTFS]
+[2016.01.06 18:45:34] [0000m.00s.058ms] [0] S: Project global path [\\IVAN-ой\Users\Ivan\YandexDisk\KPI\III\KompElek\Alu-Mentor2\ALU\database] on file system [NTFS]
+[2016.01.06 18:45:34] [0000m.00s.058ms] [0] S: Project file (.prj) path [\\IVAN-ой\Users\Ivan\YandexDisk\KPI\III\KompElek\Alu-Mentor2\ALU\ALU.prj] on file system [UNKNOWN]
+[2016.01.06 18:45:34] [0000m.00s.058ms] [0] S: Project file (.prj) local path [K:\KompElek\Alu-Mentor2\ALU\ALU.prj] on file system [NTFS]
+[2016.01.06 18:45:34] [0000m.00s.060ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2016.01.06 18:45:34] [0000m.00s.060ms] [0] S: Single-user mode (auto)
+[2016.01.06 18:45:34] [0000m.00s.060ms] [0] S: Event polling mode autodetection
+[2016.01.06 18:45:34] [0000m.00s.067ms] [0] S: Started up automatically by iCDB Client: IVAN-ой:Ivan:5056
+[2016.01.06 18:45:34] [0000m.00s.067ms] [0] S: Auto close mode
+[2016.01.06 18:45:34] [0000m.00s.067ms] [0] S: Database ID [2cea-a7d2-1e34-b86e-ea44-d863-b44d-8650-da51-cfaf-fb33-23c5]
+[2016.01.06 18:45:34] [0000m.00s.067ms] [0] PathTranslator: BEGIN dumping
+[2016.01.06 18:45:34] [0000m.00s.067ms] [0] PathTranslator: Local -> global path prefix list
+[2016.01.06 18:45:34] [0000m.00s.067ms] [0] PathTranslator: [C:\Users] -> [\\IVAN-ой\Users]
+[2016.01.06 18:45:34] [0000m.00s.067ms] [0] PathTranslator: [K:\] -> [\\IVAN-ой\Users\Ivan\YandexDisk\KPI\III]
+[2016.01.06 18:45:34] [0000m.00s.067ms] [0] PathTranslator: Global -> local path prefix list
+[2016.01.06 18:45:34] [0000m.00s.067ms] [0] PathTranslator: [\\IVAN-ой\Users\Ivan\YandexDisk\KPI\III] -> [K:\]
+[2016.01.06 18:45:34] [0000m.00s.068ms] [0] PathTranslator: [\\IVAN-ой\Users] -> [C:\Users]
+[2016.01.06 18:45:34] [0000m.00s.068ms] [0] PathTranslator: END dumping
+[2016.01.06 18:45:34] [0000m.00s.068ms] [0] S: START
+[2016.01.06 18:45:34] [0000m.00s.068ms] [0] S: Server startup lock file created
+[2016.01.06 18:45:34] [0000m.00s.069ms] [0] S: Listening for client connections on port [10001]
+[2016.01.06 18:45:34] [0000m.00s.073ms] [0] S: Server network ID [Ivan-ой:192.168.1.101,Ivan-ой:10001]
+[2016.01.06 18:45:34] [0000m.00s.073ms] [0] S: Server GUID [d2cc-73f6-a9e4-af6b-ea44-d863-b44d-8650-1b22-cfaf-fb33-23c5]
+[2016.01.06 18:45:34] [0000m.00s.073ms] [0] S: Project GUID [2cea-a7d2-1e34-b86e-ea44-d863-b44d-8650-da51-cfaf-fb33-23c5]
+[2016.01.06 18:45:34] [0000m.00s.074ms] [0] S: Wrote data to server address file
+[2016.01.06 18:45:34] [0000m.00s.074ms] [0] S: Server startup lock file removed
+[2016.01.06 18:45:34] [0000m.00s.075ms] [1] ProjectBackupManager: Setting project file (.prj) path: [K:\KompElek\Alu-Mentor2\ALU\ALU.prj]
+[2016.01.06 18:45:34] [0000m.00s.120ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2016.01.06 18:45:34] [0000m.00s.120ms] [0] S: Local disc access time: 32 us
+[2016.01.06 18:45:34] [0000m.00s.120ms] [0] S: File server access time: 36 us
+[2016.01.06 18:45:34] [0000m.00s.136ms] [0] Single file [K:\KompElek\Alu-Mentor2\ALU\database\icdb.dat] not exists
+[2016.01.06 18:45:34] [0000m.00s.137ms] [1] Single file [K:\KompElek\Alu-Mentor2\ALU\database\icdb.dat] created
+[2016.01.06 18:45:34] [0000m.00s.196ms] [0] iCDB Server PI: Server & plugin session [1]
+[2016.01.06 18:45:34] [0000m.00s.196ms] [0] iCDB Server PI: Opening database [K:\KompElek\Alu-Mentor2\ALU\database]
+[2016.01.06 18:45:34] [0000m.00s.196ms] [0] iCDB Server PI: Database [K:\KompElek\Alu-Mentor2\ALU\database] opened
+[2016.01.06 18:45:34] [0000m.00s.210ms] [0] iCDB Database: Checking existence of constraint definitions
+[2016.01.06 18:45:34] [0000m.00s.210ms] [0] iCDB Database: Loading constraint definitions into database
+[2016.01.06 18:45:34] [0000m.00s.265ms] [0] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.24;user.cns=c302-1e36-1495-d6ce-0810-b665-810b-6650-5e21-cfaf-fb33-23c5] loaded
+[2016.01.06 18:45:35] [0000m.00s.678ms] [0] iCDB Server PI: Initializing plugins
+[2016.01.06 18:45:35] [0000m.00s.679ms] [0] iCDB Server PI: Plugins initialized
+[2016.01.06 18:45:35] [0000m.00s.679ms] [0] S: iCDB database loaded
+[2016.01.06 18:45:35] [0000m.00s.680ms] [0] S: Starting threads
+[2016.01.06 18:45:35] [0000m.00s.681ms] [0] BT: Listening for broadcast messages on port [10000]
+[2016.01.06 18:45:35] [0000m.00s.682ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2016.01.06 18:45:35] [0000m.00s.683ms] [0] IT: Session [2] for host [Ivan-ой] user [Ivan] with process ID [5056] created
+[2016.01.06 18:45:35] [0000m.00s.684ms] [1] SCL: WARNING: Could not find client [2] stat data
+[2016.01.06 18:45:35] [0000m.00s.688ms] [1] SC[2]: Registered sub-client [DxD] with ID [1] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 18:45:35] [0000m.00s.708ms] [1] SC[2]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 18:45:35] [0000m.00s.711ms] [1] SC[2]: Registered sub-client [xprob] with ID [3] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 18:45:35] [0000m.00s.759ms] [1] PrjBackupMgr: Successfully created Project Backup [K:\KompElek\Alu-Mentor2\ALU\ProjectBackup\backups\2016-01-06 18.45.35 - auto.zip] with GUID [4cff-1daf-b2c4-299f-fa44-d864-b44d-8650-9032-cfaf-fb33-23c5]
+[2016.01.06 18:45:35] [0000m.00s.759ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[4cff-1daf-b2c4-299f-fa44-d864-b44d-8650-9032-cfaf-fb33-23c5] CreationTime[Wednesday, January 06, 2016 16:45:35] Type[Autosave] Creator[iCDB Server (2016-01-06 18.45.34-1280)] ApplicationName[iCDB Server (2016-01-06 18.45.34-1280)] UserName[Ivan] MachineName[IVAN-ой] Description[Autosave] FullFlowName[Expedition Enterprise Flow] FlowId[EE7.9.5] GBSInstallId[30163] GBSBuildId[535943] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[K:\KompElek\Alu-Mentor2\ALU\ProjectBackup\backups\2016-01-06 18.45.35 - auto.zip] BackupFileSize[10475] Persistent[FALSE]
+[2016.01.06 18:45:35] [0000m.00s.784ms] [1] CMT: There are [1] clients now: 2
+[2016.01.06 18:45:35] [0000m.00s.825ms] [1] SC[2]: Registered sub-client [SelectionHolder] with ID [4] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 18:45:35] [0000m.00s.837ms] [1] SC[2]: Registered sub-client [SymbolEditor] with ID [5] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 18:45:35] [0000m.01s.462ms] [1] SC[2]: Registered sub-client [HdlProject] with ID [6] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 18:45:35] [0000m.01s.470ms] [1] SC[2]: Registered sub-client [Navigator] with ID [7] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 18:45:35] [0000m.01s.478ms] [1] SC[2]: Registered sub-client [OutputWindow] with ID [8] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 18:45:35] [0000m.01s.480ms] [1] SC[2]: Registered sub-client [PlaceDevice] with ID [9] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 18:45:35] [0000m.01s.499ms] [1] SC[2]: Registered sub-client [SAE] with ID [10] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 18:45:35] [0000m.01s.503ms] [1] SC[2]: Registered sub-client [CCZAddin] with ID [11] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 18:45:35] [0000m.01s.505ms] [1] SC[2]: Registered sub-client [DxThumbnails] with ID [12] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 18:45:36] [0000m.01s.583ms] [1] SC[2]: Registered sub-client [SheetConnectorsCacheDxD:1452098736] with ID [13] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 18:45:36] [0000m.01s.588ms] [1] SC[2]: Registered sub-client [NetsNamesCollectorDxD:1452098736] with ID [14] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 18:45:36] [0000m.01s.595ms] [1] SC[2]: Registered sub-client [DxDbSearch] with ID [15] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 18:45:42] [0000m.08s.277ms] [1] SC[2]: Registered sub-client [ObjectHolder_164498992] with ID [16] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 18:45:42] [0000m.08s.281ms] [1] SC[2]: Registered sub-client [BlockCacheDxD:459746368] with ID [17] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 18:45:42] [0000m.08s.286ms] [1] SC[2]: Registered sub-client [GlobalNetAliasUpdater_164497936] with ID [18] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 18:45:42] [0000m.08s.291ms] [1] SC[2]: Registered sub-client [IcdbNetProcessorSubClientDxD:331293608] with ID [19] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 18:46:04] [0000m.29s.879ms] [0] DFAMT: File server access time: 48 us
+[2016.01.06 18:46:43] [0001m.09s.548ms] [0] IT: Session [3] for host [Ivan-ой] user [Ivan] with process ID [4880] created
+[2016.01.06 18:46:43] [0001m.09s.549ms] [1] SC[3]: Registered sub-client [CDBPackagerGUI] with ID [1] for session ID [3] host [Ivan-ой] user [Ivan] process ID [4880]
+[2016.01.06 18:46:43] [0001m.09s.557ms] [1] SC[3]: UnRegistered sub-client [CDBPackagerGUI] with ID [1] for session ID [3] host [Ivan-ой] user [Ivan] process ID [4880]
+[2016.01.06 18:46:44] [0001m.09s.573ms] [1] CMT: There are [2] clients now: 2, 3
+[2016.01.06 18:46:44] [0001m.09s.573ms] [1] CMT: Removed client [3]
+[2016.01.06 18:46:44] [0001m.09s.573ms] [1] CMT: There are [1] clients now: 2
+[2016.01.06 18:46:47] [0001m.12s.655ms] [0] IT: Session [4] for host [Ivan-ой] user [Ivan] with process ID [4404] created
+[2016.01.06 18:46:47] [0001m.12s.655ms] [1] SC[4]: Registered sub-client [Packager_3057291] with ID [1] for session ID [4] host [Ivan-ой] user [Ivan] process ID [4404]
+[2016.01.06 18:46:47] [0001m.12s.685ms] [1] CMT: There are [2] clients now: 2, 4
+[2016.01.06 18:46:47] [0001m.12s.811ms] [1] SC[4]: UnRegistered sub-client [Packager_3057291] with ID [1] for session ID [4] host [Ivan-ой] user [Ivan] process ID [4404]
+[2016.01.06 18:46:47] [0001m.12s.936ms] [1] CMT: Removed client [4]
+[2016.01.06 18:46:47] [0001m.12s.936ms] [1] CMT: There are [1] clients now: 2
+[2016.01.06 18:47:07] [0001m.33s.117ms] [0] IT: Session [5] for host [Ivan-ой] user [Ivan] with process ID [732] created
+[2016.01.06 18:47:07] [0001m.33s.117ms] [1] SC[5]: Registered sub-client [LT_Import] with ID [1] for session ID [5] host [Ivan-ой] user [Ivan] process ID [732]
+[2016.01.06 18:47:07] [0001m.33s.139ms] [1] CMT: There are [2] clients now: 2, 5
+[2016.01.06 18:47:07] [0001m.33s.292ms] [1] SC[5]: UnRegistered sub-client [LT_Import] with ID [1] for session ID [5] host [Ivan-ой] user [Ivan] process ID [732]
+[2016.01.06 18:47:07] [0001m.33s.339ms] [1] CMT: Removed client [5]
+[2016.01.06 18:47:07] [0001m.33s.339ms] [1] CMT: There are [1] clients now: 2
+[2016.01.06 18:48:14] [0002m.40s.129ms] [0] IT: Session [6] for host [Ivan-ой] user [Ivan] with process ID [1184] created
+[2016.01.06 18:48:14] [0002m.40s.131ms] [1] SC[6]: Registered sub-client [Expedition PCB_3144746] with ID [1] for session ID [6] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:48:14] [0002m.40s.168ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [K:\KompElek\Alu-Mentor2\ALU\database\s2\cdbcatlg\grpobj] - auto-saving it
+[2016.01.06 18:48:14] [0002m.40s.168ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [K:\KompElek\Alu-Mentor2\ALU\database\s2\cdbcmpcache\dxdatl.v] - auto-saving it
+[2016.01.06 18:48:14] [0002m.40s.193ms] [1] CMT: There are [2] clients now: 2, 6
+[2016.01.06 18:48:14] [0002m.40s.353ms] [1] SC[6]: Registered sub-client [EEVM_EEVM_143234020] with ID [2] for session ID [6] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:48:14] [0002m.40s.359ms] [1] SC[6]: UnRegistered sub-client [EEVM_EEVM_143234020] with ID [2] for session ID [6] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:48:14] [0002m.40s.362ms] [1] SC[6]: Registered sub-client [EEVM_EEVM_143234020] with ID [3] for session ID [6] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:48:14] [0002m.40s.372ms] [1] SC[6]: UnRegistered sub-client [EEVM_EEVM_143234020] with ID [3] for session ID [6] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:48:18] [0002m.44s.327ms] [1] SC[6]: Registered sub-client [ExpeditionCrossProber] with ID [4] for session ID [6] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:48:19] [0002m.44s.593ms] [1] SC[6]: Registered sub-client [JobPrefsDBPI_3149270] with ID [5] for session ID [6] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:48:19] [0002m.44s.597ms] [1] SC[6]: UnRegistered sub-client [JobPrefsDBPI_3149270] with ID [5] for session ID [6] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:48:22] [0002m.47s.724ms] [1] SC[6]: UnRegistered sub-client [ExpeditionCrossProber] with ID [4] for session ID [6] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:48:22] [0002m.47s.728ms] [1] SC[6]: Registered sub-client [EEVM_EEVM_1633988] with ID [6] for session ID [6] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:48:22] [0002m.47s.728ms] [1] SC[6]: UnRegistered sub-client [EEVM_EEVM_1633988] with ID [6] for session ID [6] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:48:22] [0002m.47s.949ms] [0] IT: Session [7] for host [Ivan-ой] user [Ivan] with process ID [2152] created
+[2016.01.06 18:48:22] [0002m.47s.950ms] [1] SC[7]: Registered sub-client [Packager_3152577] with ID [1] for session ID [7] host [Ivan-ой] user [Ivan] process ID [2152]
+[2016.01.06 18:48:22] [0002m.47s.996ms] [1] CMT: There are [3] clients now: 2, 6, 7
+[2016.01.06 18:48:22] [0002m.48s.074ms] [1] SC[7]: UnRegistered sub-client [Packager_3152577] with ID [1] for session ID [7] host [Ivan-ой] user [Ivan] process ID [2152]
+[2016.01.06 18:48:22] [0002m.48s.096ms] [1] CMT: Removed client [7]
+[2016.01.06 18:48:22] [0002m.48s.096ms] [1] CMT: There are [2] clients now: 2, 6
+[2016.01.06 18:48:23] [0002m.48s.973ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [K:\KompElek\Alu-Mentor2\ALU\database\s2\cdbcatlg\grpobj] - auto-saving it
+[2016.01.06 18:48:24] [0002m.49s.569ms] [0] IT: Session [8] for host [Ivan-ой] user [Ivan] with process ID [4584] created
+[2016.01.06 18:48:24] [0002m.49s.570ms] [1] SC[8]: Registered sub-client [Expedition_3154153] with ID [1] for session ID [8] host [Ivan-ой] user [Ivan] process ID [4584]
+[2016.01.06 18:48:24] [0002m.49s.609ms] [1] CMT: There are [3] clients now: 2, 6, 8
+[2016.01.06 18:48:24] [0002m.49s.616ms] [1] SC[8]: UnRegistered sub-client [Expedition_3154153] with ID [1] for session ID [8] host [Ivan-ой] user [Ivan] process ID [4584]
+[2016.01.06 18:48:24] [0002m.49s.710ms] [1] CMT: Removed client [8]
+[2016.01.06 18:48:24] [0002m.49s.710ms] [1] CMT: There are [2] clients now: 2, 6
+[2016.01.06 18:48:24] [0002m.50s.304ms] [0] IT: Session [9] for host [Ivan-ой] user [Ivan] with process ID [4584] created
+[2016.01.06 18:48:24] [0002m.50s.305ms] [1] SC[9]: Registered sub-client [JobPrefsDBPI_3154901] with ID [1] for session ID [9] host [Ivan-ой] user [Ivan] process ID [4584]
+[2016.01.06 18:48:24] [0002m.50s.341ms] [1] CMT: There are [3] clients now: 2, 6, 9
+[2016.01.06 18:48:24] [0002m.50s.390ms] [1] SC[9]: UnRegistered sub-client [JobPrefsDBPI_3154901] with ID [1] for session ID [9] host [Ivan-ой] user [Ivan] process ID [4584]
+[2016.01.06 18:48:24] [0002m.50s.443ms] [1] CMT: Removed client [9]
+[2016.01.06 18:48:24] [0002m.50s.443ms] [1] CMT: There are [2] clients now: 2, 6
+[2016.01.06 18:48:25] [0002m.51s.506ms] [0] IT: Session [10] for host [Ivan-ой] user [Ivan] with process ID [1164] created
+[2016.01.06 18:48:25] [0002m.51s.507ms] [1] SC[10]: Registered sub-client [JobPrefsDBPI_3156134] with ID [1] for session ID [10] host [Ivan-ой] user [Ivan] process ID [1164]
+[2016.01.06 18:48:25] [0002m.51s.535ms] [1] SC[10]: Registered sub-client [Expedition_3156212] with ID [2] for session ID [10] host [Ivan-ой] user [Ivan] process ID [1164]
+[2016.01.06 18:48:25] [0002m.51s.543ms] [1] CMT: There are [3] clients now: 2, 6, 10
+[2016.01.06 18:48:26] [0002m.51s.568ms] [1] SC[10]: UnRegistered sub-client [JobPrefsDBPI_3156134] with ID [1] for session ID [10] host [Ivan-ой] user [Ivan] process ID [1164]
+[2016.01.06 18:48:26] [0002m.51s.597ms] [1] SC[10]: UnRegistered sub-client [Expedition_3156212] with ID [2] for session ID [10] host [Ivan-ой] user [Ivan] process ID [1164]
+[2016.01.06 18:48:26] [0002m.51s.647ms] [1] CMT: Removed client [10]
+[2016.01.06 18:48:26] [0002m.51s.647ms] [1] CMT: There are [2] clients now: 2, 6
+[2016.01.06 18:48:26] [0002m.52s.285ms] [1] SC[6]: Registered sub-client [EEVM_EEVM_345975508] with ID [7] for session ID [6] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:48:26] [0002m.52s.293ms] [1] SC[6]: UnRegistered sub-client [EEVM_EEVM_345975508] with ID [7] for session ID [6] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:48:26] [0002m.52s.296ms] [1] SC[6]: Registered sub-client [EEVM_EEVM_345975508] with ID [8] for session ID [6] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:48:26] [0002m.52s.296ms] [1] SC[6]: UnRegistered sub-client [EEVM_EEVM_345975508] with ID [8] for session ID [6] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:48:26] [0002m.52s.299ms] [1] SC[6]: Registered sub-client [EEVM_EEVM_345975508] with ID [9] for session ID [6] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:48:26] [0002m.52s.309ms] [1] SC[6]: UnRegistered sub-client [EEVM_EEVM_345975508] with ID [9] for session ID [6] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:48:26] [0002m.52s.532ms] [1] SC[6]: UnRegistered sub-client [Expedition PCB_3144746] with ID [1] for session ID [6] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:48:27] [0002m.52s.593ms] [1] CMT: Removed client [6]
+[2016.01.06 18:48:27] [0002m.52s.593ms] [1] CMT: There are [1] clients now: 2
+[2016.01.06 18:48:27] [0002m.52s.818ms] [0] IT: Session [11] for host [Ivan-ой] user [Ivan] with process ID [1184] created
+[2016.01.06 18:48:27] [0002m.52s.821ms] [1] SC[11]: Registered sub-client [Expedition PCB_3157444] with ID [1] for session ID [11] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:48:27] [0002m.52s.899ms] [1] CMT: There are [2] clients now: 2, 11
+[2016.01.06 18:48:28] [0002m.53s.570ms] [1] SC[11]: Registered sub-client [JobPrefsDBPI_3158240] with ID [2] for session ID [11] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:48:28] [0002m.53s.575ms] [1] SC[11]: UnRegistered sub-client [JobPrefsDBPI_3158240] with ID [2] for session ID [11] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:48:28] [0002m.53s.641ms] [1] SC[11]: Registered sub-client [JobPrefsDBPI_3158318] with ID [3] for session ID [11] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:48:28] [0002m.53s.646ms] [1] SC[11]: UnRegistered sub-client [JobPrefsDBPI_3158318] with ID [3] for session ID [11] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:48:28] [0002m.53s.655ms] [1] SC[11]: Registered sub-client [ExpeditionCrossProber] with ID [4] for session ID [11] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:53:03] [0007m.29s.319ms] [0] IT: Session [12] for host [Ivan-ой] user [Ivan] with process ID [2692] created
+[2016.01.06 18:53:03] [0007m.29s.320ms] [1] SC[12]: Registered sub-client [CDBPackagerGUI] with ID [1] for session ID [12] host [Ivan-ой] user [Ivan] process ID [2692]
+[2016.01.06 18:53:03] [0007m.29s.330ms] [1] SC[12]: UnRegistered sub-client [CDBPackagerGUI] with ID [1] for session ID [12] host [Ivan-ой] user [Ivan] process ID [2692]
+[2016.01.06 18:53:03] [0007m.29s.409ms] [1] CMT: There are [3] clients now: 2, 11, 12
+[2016.01.06 18:53:03] [0007m.29s.409ms] [1] CMT: Removed client [12]
+[2016.01.06 18:53:03] [0007m.29s.409ms] [1] CMT: There are [2] clients now: 2, 11
+[2016.01.06 18:53:05] [0007m.31s.104ms] [0] IT: Session [13] for host [Ivan-ой] user [Ivan] with process ID [4520] created
+[2016.01.06 18:53:05] [0007m.31s.104ms] [1] SC[13]: Registered sub-client [Packager_3435750] with ID [1] for session ID [13] host [Ivan-ой] user [Ivan] process ID [4520]
+[2016.01.06 18:53:05] [0007m.31s.113ms] [1] CMT: There are [3] clients now: 2, 11, 13
+[2016.01.06 18:53:05] [0007m.31s.219ms] [1] SC[13]: UnRegistered sub-client [Packager_3435750] with ID [1] for session ID [13] host [Ivan-ой] user [Ivan] process ID [4520]
+[2016.01.06 18:53:05] [0007m.31s.321ms] [1] CMT: Removed client [13]
+[2016.01.06 18:53:05] [0007m.31s.321ms] [1] CMT: There are [2] clients now: 2, 11
+[2016.01.06 18:53:13] [0007m.38s.934ms] [1] SC[11]: UnRegistered sub-client [ExpeditionCrossProber] with ID [4] for session ID [11] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:53:13] [0007m.38s.940ms] [1] SC[11]: Registered sub-client [EEVM_EEVM_1635240] with ID [5] for session ID [11] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:53:13] [0007m.38s.940ms] [1] SC[11]: UnRegistered sub-client [EEVM_EEVM_1635240] with ID [5] for session ID [11] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:53:13] [0007m.39s.149ms] [0] IT: Session [14] for host [Ivan-ой] user [Ivan] with process ID [1188] created
+[2016.01.06 18:53:13] [0007m.39s.150ms] [1] SC[14]: Registered sub-client [Packager_3443784] with ID [1] for session ID [14] host [Ivan-ой] user [Ivan] process ID [1188]
+[2016.01.06 18:53:13] [0007m.39s.164ms] [1] CMT: There are [3] clients now: 2, 11, 14
+[2016.01.06 18:53:13] [0007m.39s.265ms] [1] SC[14]: UnRegistered sub-client [Packager_3443784] with ID [1] for session ID [14] host [Ivan-ой] user [Ivan] process ID [1188]
+[2016.01.06 18:53:13] [0007m.39s.364ms] [1] CMT: Removed client [14]
+[2016.01.06 18:53:13] [0007m.39s.364ms] [1] CMT: There are [2] clients now: 2, 11
+[2016.01.06 18:53:14] [0007m.40s.289ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [K:\KompElek\Alu-Mentor2\ALU\database\s2\cdbcatlg\grpobj] - auto-saving it
+[2016.01.06 18:53:15] [0007m.40s.855ms] [0] IT: Session [15] for host [Ivan-ой] user [Ivan] with process ID [4296] created
+[2016.01.06 18:53:15] [0007m.40s.856ms] [1] SC[15]: Registered sub-client [Expedition_3445500] with ID [1] for session ID [15] host [Ivan-ой] user [Ivan] process ID [4296]
+[2016.01.06 18:53:15] [0007m.40s.868ms] [1] CMT: There are [3] clients now: 2, 11, 15
+[2016.01.06 18:53:15] [0007m.40s.895ms] [1] SC[15]: UnRegistered sub-client [Expedition_3445500] with ID [1] for session ID [15] host [Ivan-ой] user [Ivan] process ID [4296]
+[2016.01.06 18:53:15] [0007m.40s.968ms] [1] CMT: Removed client [15]
+[2016.01.06 18:53:15] [0007m.40s.968ms] [1] CMT: There are [2] clients now: 2, 11
+[2016.01.06 18:53:15] [0007m.41s.501ms] [0] IT: Session [16] for host [Ivan-ой] user [Ivan] with process ID [4296] created
+[2016.01.06 18:53:15] [0007m.41s.502ms] [1] SC[16]: Registered sub-client [JobPrefsDBPI_3446155] with ID [1] for session ID [16] host [Ivan-ой] user [Ivan] process ID [4296]
+[2016.01.06 18:53:15] [0007m.41s.550ms] [1] SC[16]: UnRegistered sub-client [JobPrefsDBPI_3446155] with ID [1] for session ID [16] host [Ivan-ой] user [Ivan] process ID [4296]
+[2016.01.06 18:53:16] [0007m.41s.568ms] [1] CMT: There are [3] clients now: 2, 11, 16
+[2016.01.06 18:53:16] [0007m.41s.568ms] [1] CMT: Removed client [16]
+[2016.01.06 18:53:16] [0007m.41s.568ms] [1] CMT: There are [2] clients now: 2, 11
+[2016.01.06 18:53:16] [0007m.42s.357ms] [0] IT: Session [17] for host [Ivan-ой] user [Ivan] with process ID [1864] created
+[2016.01.06 18:53:16] [0007m.42s.357ms] [1] SC[17]: Registered sub-client [JobPrefsDBPI_3446998] with ID [1] for session ID [17] host [Ivan-ой] user [Ivan] process ID [1864]
+[2016.01.06 18:53:16] [0007m.42s.377ms] [1] CMT: There are [3] clients now: 2, 11, 17
+[2016.01.06 18:53:16] [0007m.42s.382ms] [1] SC[17]: Registered sub-client [Expedition_3447060] with ID [2] for session ID [17] host [Ivan-ой] user [Ivan] process ID [1864]
+[2016.01.06 18:53:16] [0007m.42s.405ms] [1] SC[17]: UnRegistered sub-client [JobPrefsDBPI_3446998] with ID [1] for session ID [17] host [Ivan-ой] user [Ivan] process ID [1864]
+[2016.01.06 18:53:16] [0007m.42s.431ms] [1] SC[17]: UnRegistered sub-client [Expedition_3447060] with ID [2] for session ID [17] host [Ivan-ой] user [Ivan] process ID [1864]
+[2016.01.06 18:53:16] [0007m.42s.477ms] [1] CMT: Removed client [17]
+[2016.01.06 18:53:16] [0007m.42s.477ms] [1] CMT: There are [2] clients now: 2, 11
+[2016.01.06 18:53:17] [0007m.43s.211ms] [1] SC[11]: Registered sub-client [EEVM_EEVM_345975508] with ID [6] for session ID [11] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:53:17] [0007m.43s.234ms] [1] SC[11]: UnRegistered sub-client [EEVM_EEVM_345975508] with ID [6] for session ID [11] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:53:17] [0007m.43s.237ms] [1] SC[11]: Registered sub-client [EEVM_EEVM_345975508] with ID [7] for session ID [11] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:53:17] [0007m.43s.237ms] [1] SC[11]: UnRegistered sub-client [EEVM_EEVM_345975508] with ID [7] for session ID [11] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:53:17] [0007m.43s.240ms] [1] SC[11]: Registered sub-client [EEVM_EEVM_345975508] with ID [8] for session ID [11] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:53:17] [0007m.43s.246ms] [1] SC[11]: UnRegistered sub-client [EEVM_EEVM_345975508] with ID [8] for session ID [11] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:53:17] [0007m.43s.385ms] [1] SC[11]: UnRegistered sub-client [Expedition PCB_3157444] with ID [1] for session ID [11] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:53:17] [0007m.43s.485ms] [1] CMT: Removed client [11]
+[2016.01.06 18:53:17] [0007m.43s.485ms] [1] CMT: There are [1] clients now: 2
+[2016.01.06 18:53:18] [0007m.43s.992ms] [0] IT: Session [18] for host [Ivan-ой] user [Ivan] with process ID [1184] created
+[2016.01.06 18:53:18] [0007m.43s.993ms] [1] SC[18]: Registered sub-client [Expedition PCB_3448636] with ID [1] for session ID [18] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:53:18] [0007m.44s.085ms] [1] CMT: There are [2] clients now: 2, 18
+[2016.01.06 18:53:18] [0007m.44s.516ms] [1] SC[18]: Registered sub-client [JobPrefsDBPI_3449197] with ID [2] for session ID [18] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:53:18] [0007m.44s.519ms] [1] SC[18]: UnRegistered sub-client [JobPrefsDBPI_3449197] with ID [2] for session ID [18] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 18:53:18] [0007m.44s.544ms] [1] SC[18]: Registered sub-client [ExpeditionCrossProber] with ID [3] for session ID [18] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 19:15:34] [0030m.00s.180ms] [0] IT: Session [19] for host [Ivan-ой] user [Ivan] with process ID [1576] created
+[2016.01.06 19:15:34] [0030m.00s.181ms] [1] CMT: There are [3] clients now: 2, 18, 19
+[2016.01.06 19:15:34] [0030m.00s.181ms] [1] SC[19]: Registered sub-client [CDBPackagerGUI] with ID [1] for session ID [19] host [Ivan-ой] user [Ivan] process ID [1576]
+[2016.01.06 19:15:34] [0030m.00s.190ms] [1] SC[19]: UnRegistered sub-client [CDBPackagerGUI] with ID [1] for session ID [19] host [Ivan-ой] user [Ivan] process ID [1576]
+[2016.01.06 19:15:34] [0030m.00s.281ms] [1] CMT: Removed client [19]
+[2016.01.06 19:15:34] [0030m.00s.281ms] [1] CMT: There are [2] clients now: 2, 18
+[2016.01.06 19:15:36] [0030m.02s.166ms] [0] IT: Session [20] for host [Ivan-ой] user [Ivan] with process ID [3012] created
+[2016.01.06 19:15:36] [0030m.02s.167ms] [1] SC[20]: Registered sub-client [Packager_4786781] with ID [1] for session ID [20] host [Ivan-ой] user [Ivan] process ID [3012]
+[2016.01.06 19:15:36] [0030m.02s.195ms] [1] CMT: There are [3] clients now: 2, 18, 20
+[2016.01.06 19:15:36] [0030m.02s.311ms] [1] SC[20]: UnRegistered sub-client [Packager_4786781] with ID [1] for session ID [20] host [Ivan-ой] user [Ivan] process ID [3012]
+[2016.01.06 19:15:36] [0030m.02s.401ms] [1] CMT: Removed client [20]
+[2016.01.06 19:15:36] [0030m.02s.401ms] [1] CMT: There are [2] clients now: 2, 18
+[2016.01.06 19:15:40] [0030m.06s.367ms] [1] SC[18]: UnRegistered sub-client [ExpeditionCrossProber] with ID [3] for session ID [18] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 19:15:40] [0030m.06s.373ms] [1] SC[18]: Registered sub-client [EEVM_EEVM_1635240] with ID [4] for session ID [18] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 19:15:40] [0030m.06s.374ms] [1] SC[18]: UnRegistered sub-client [EEVM_EEVM_1635240] with ID [4] for session ID [18] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 19:15:41] [0030m.06s.824ms] [0] IT: Session [21] for host [Ivan-ой] user [Ivan] with process ID [1000] created
+[2016.01.06 19:15:41] [0030m.06s.825ms] [1] SC[21]: Registered sub-client [Packager_4791461] with ID [1] for session ID [21] host [Ivan-ой] user [Ivan] process ID [1000]
+[2016.01.06 19:15:41] [0030m.06s.840ms] [1] CMT: There are [3] clients now: 2, 18, 21
+[2016.01.06 19:15:41] [0030m.06s.927ms] [1] SC[21]: UnRegistered sub-client [Packager_4791461] with ID [1] for session ID [21] host [Ivan-ой] user [Ivan] process ID [1000]
+[2016.01.06 19:15:41] [0030m.06s.940ms] [1] CMT: Removed client [21]
+[2016.01.06 19:15:41] [0030m.06s.940ms] [1] CMT: There are [2] clients now: 2, 18
+[2016.01.06 19:15:42] [0030m.07s.829ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [K:\KompElek\Alu-Mentor2\ALU\database\s2\cdbcatlg\grpobj] - auto-saving it
+[2016.01.06 19:15:42] [0030m.08s.256ms] [0] IT: Session [22] for host [Ivan-ой] user [Ivan] with process ID [3680] created
+[2016.01.06 19:15:42] [0030m.08s.258ms] [1] SC[22]: Registered sub-client [Expedition_4792881] with ID [1] for session ID [22] host [Ivan-ой] user [Ivan] process ID [3680]
+[2016.01.06 19:15:42] [0030m.08s.302ms] [1] SC[22]: UnRegistered sub-client [Expedition_4792881] with ID [1] for session ID [22] host [Ivan-ой] user [Ivan] process ID [3680]
+[2016.01.06 19:15:42] [0030m.08s.349ms] [1] CMT: There are [3] clients now: 2, 18, 22
+[2016.01.06 19:15:42] [0030m.08s.349ms] [1] CMT: Removed client [22]
+[2016.01.06 19:15:42] [0030m.08s.349ms] [1] CMT: There are [2] clients now: 2, 18
+[2016.01.06 19:15:43] [0030m.08s.955ms] [0] IT: Session [23] for host [Ivan-ой] user [Ivan] with process ID [3680] created
+[2016.01.06 19:15:43] [0030m.08s.956ms] [1] SC[23]: Registered sub-client [JobPrefsDBPI_4793567] with ID [1] for session ID [23] host [Ivan-ой] user [Ivan] process ID [3680]
+[2016.01.06 19:15:43] [0030m.09s.016ms] [1] SC[23]: UnRegistered sub-client [JobPrefsDBPI_4793567] with ID [1] for session ID [23] host [Ivan-ой] user [Ivan] process ID [3680]
+[2016.01.06 19:15:43] [0030m.09s.054ms] [1] CMT: There are [3] clients now: 2, 18, 23
+[2016.01.06 19:15:43] [0030m.09s.054ms] [1] CMT: Removed client [23]
+[2016.01.06 19:15:43] [0030m.09s.054ms] [1] CMT: There are [2] clients now: 2, 18
+[2016.01.06 19:15:44] [0030m.09s.802ms] [0] IT: Session [24] for host [Ivan-ой] user [Ivan] with process ID [4232] created
+[2016.01.06 19:15:44] [0030m.09s.803ms] [1] SC[24]: Registered sub-client [JobPrefsDBPI_4794441] with ID [1] for session ID [24] host [Ivan-ой] user [Ivan] process ID [4232]
+[2016.01.06 19:15:44] [0030m.09s.833ms] [1] SC[24]: Registered sub-client [Expedition_4794503] with ID [2] for session ID [24] host [Ivan-ой] user [Ivan] process ID [4232]
+[2016.01.06 19:15:44] [0030m.09s.866ms] [1] CMT: There are [3] clients now: 2, 18, 24
+[2016.01.06 19:15:44] [0030m.09s.868ms] [1] SC[24]: UnRegistered sub-client [JobPrefsDBPI_4794441] with ID [1] for session ID [24] host [Ivan-ой] user [Ivan] process ID [4232]
+[2016.01.06 19:15:44] [0030m.09s.900ms] [1] SC[24]: UnRegistered sub-client [Expedition_4794503] with ID [2] for session ID [24] host [Ivan-ой] user [Ivan] process ID [4232]
+[2016.01.06 19:15:44] [0030m.09s.966ms] [1] CMT: Removed client [24]
+[2016.01.06 19:15:44] [0030m.09s.966ms] [1] CMT: There are [2] clients now: 2, 18
+[2016.01.06 19:15:45] [0030m.10s.623ms] [1] SC[18]: Registered sub-client [EEVM_EEVM_345976564] with ID [5] for session ID [18] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 19:15:45] [0030m.10s.630ms] [1] SC[18]: UnRegistered sub-client [EEVM_EEVM_345976564] with ID [5] for session ID [18] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 19:15:45] [0030m.10s.634ms] [1] SC[18]: Registered sub-client [EEVM_EEVM_345976564] with ID [6] for session ID [18] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 19:15:45] [0030m.10s.635ms] [1] SC[18]: UnRegistered sub-client [EEVM_EEVM_345976564] with ID [6] for session ID [18] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 19:15:45] [0030m.10s.637ms] [1] SC[18]: Registered sub-client [EEVM_EEVM_345976564] with ID [7] for session ID [18] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 19:15:45] [0030m.10s.644ms] [1] SC[18]: UnRegistered sub-client [EEVM_EEVM_345976564] with ID [7] for session ID [18] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 19:15:45] [0030m.10s.783ms] [1] SC[18]: UnRegistered sub-client [Expedition PCB_3448636] with ID [1] for session ID [18] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 19:15:45] [0030m.10s.867ms] [1] CMT: Removed client [18]
+[2016.01.06 19:15:45] [0030m.10s.867ms] [1] CMT: There are [1] clients now: 2
+[2016.01.06 19:15:45] [0030m.11s.315ms] [0] IT: Session [25] for host [Ivan-ой] user [Ivan] with process ID [1184] created
+[2016.01.06 19:15:45] [0030m.11s.316ms] [1] SC[25]: Registered sub-client [Expedition PCB_4795954] with ID [1] for session ID [25] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 19:15:45] [0030m.11s.401ms] [1] CMT: There are [2] clients now: 2, 25
+[2016.01.06 19:15:46] [0030m.11s.805ms] [1] SC[25]: Registered sub-client [JobPrefsDBPI_4796484] with ID [2] for session ID [25] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 19:15:46] [0030m.11s.809ms] [1] SC[25]: UnRegistered sub-client [JobPrefsDBPI_4796484] with ID [2] for session ID [25] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 19:15:46] [0030m.11s.845ms] [1] SC[25]: Registered sub-client [JobPrefsDBPI_4796515] with ID [3] for session ID [25] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 19:15:46] [0030m.11s.850ms] [1] SC[25]: UnRegistered sub-client [JobPrefsDBPI_4796515] with ID [3] for session ID [25] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 19:15:46] [0030m.11s.857ms] [1] SC[25]: Registered sub-client [ExpeditionCrossProber] with ID [4] for session ID [25] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 19:39:33] [0053m.58s.976ms] [1] SC[25]: UnRegistered sub-client [ExpeditionCrossProber] with ID [4] for session ID [25] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 19:39:33] [0053m.59s.210ms] [1] SC[25]: UnRegistered sub-client [Expedition PCB_4795954] with ID [1] for session ID [25] host [Ivan-ой] user [Ivan] process ID [1184]
+[2016.01.06 19:39:33] [0053m.59s.213ms] [1] CMT: Removed client [25]
+[2016.01.06 19:39:33] [0053m.59s.213ms] [1] CMT: There are [1] clients now: 2
+[2016.01.06 20:02:26] [0076m.51s.827ms] [1] SC[2]: UnRegistered sub-client [GlobalNetAliasUpdater_164497936] with ID [18] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 20:02:26] [0076m.51s.827ms] [1] SC[2]: UnRegistered sub-client [BlockCacheDxD:459746368] with ID [17] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 20:02:26] [0076m.51s.827ms] [1] SC[2]: UnRegistered sub-client [ObjectHolder_164498992] with ID [16] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 20:02:26] [0076m.51s.827ms] [1] SC[2]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:331293608] with ID [19] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 20:02:26] [0076m.51s.837ms] [1] SC[2]: UnRegistered sub-client [SelectionHolder] with ID [4] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 20:02:26] [0076m.51s.837ms] [1] SC[2]: UnRegistered sub-client [SheetConnectorsCacheDxD:1452098736] with ID [13] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 20:02:26] [0076m.51s.837ms] [1] SC[2]: UnRegistered sub-client [NetsNamesCollectorDxD:1452098736] with ID [14] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 20:02:26] [0076m.51s.837ms] [1] SC[2]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 20:02:26] [0076m.51s.837ms] [1] SC[2]: UnRegistered sub-client [DxD] with ID [1] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 20:02:26] [0076m.51s.837ms] [1] SC[2]: UnRegistered sub-client [xprob] with ID [3] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 20:02:26] [0076m.51s.847ms] [1] SC[2]: UnRegistered sub-client [SymbolEditor] with ID [5] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 20:02:26] [0076m.51s.847ms] [1] SC[2]: UnRegistered sub-client [Navigator] with ID [7] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 20:02:26] [0076m.51s.847ms] [1] SC[2]: UnRegistered sub-client [OutputWindow] with ID [8] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 20:02:26] [0076m.51s.847ms] [1] SC[2]: UnRegistered sub-client [DxDbSearch] with ID [15] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 20:02:26] [0076m.51s.847ms] [1] SC[2]: UnRegistered sub-client [SAE] with ID [10] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 20:02:26] [0076m.51s.847ms] [1] SC[2]: UnRegistered sub-client [CCZAddin] with ID [11] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 20:02:26] [0076m.51s.847ms] [1] SC[2]: UnRegistered sub-client [DxThumbnails] with ID [12] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 20:02:26] [0076m.52s.097ms] [1] SC[2]: UnRegistered sub-client [PlaceDevice] with ID [9] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 20:02:26] [0076m.52s.117ms] [1] SC[2]: UnRegistered sub-client [HdlProject] with ID [6] for session ID [2] host [Ivan-ой] user [Ivan] process ID [5056]
+[2016.01.06 20:02:26] [0076m.52s.217ms] [1] CMT: Removed client [2]
+[2016.01.06 20:02:26] [0076m.52s.217ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2016.01.06 20:02:28] [0076m.53s.619ms] [0] CMT: Starting server auto-close
+[2016.01.06 20:02:28] [0076m.53s.709ms] [0] S: Closing server
+[2016.01.06 20:02:28] [0076m.53s.849ms] [0] iCDB Server PI: Closing plugins
+[2016.01.06 20:02:28] [0076m.53s.849ms] [0] iCDB Server PI: Plugins closed
+[2016.01.06 20:02:28] [0076m.53s.849ms] [0] iCDB Server PI: Unloading database
+[2016.01.06 20:02:28] [0076m.53s.849ms] [0] iCDB Server PI: Saving storage
+[2016.01.06 20:02:28] [0076m.53s.849ms] [0] iCDB Server PI: Closing database
+[2016.01.06 20:02:28] [0076m.53s.889ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[30%] data[41%]
+[2016.01.06 20:02:28] [0076m.53s.889ms] [1] iCDB Server PI: Stats: Database file size [131056 (128.0 kB)]
+[2016.01.06 20:02:28] [0076m.53s.919ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2016.01.06 20:02:28] [0076m.53s.929ms] [0] iCDB Server PI: Database closed
+[2016.01.06 20:02:28] [0076m.53s.929ms] [0] iCDB Server PI: Defragmenting database
+[2016.01.06 20:02:28] [0076m.53s.929ms] [0] iCDB Server PI: Creating database [K:\KompElek\Alu-Mentor2\ALU\database] backup to file [K:\KompElek\Alu-Mentor2\ALU\database\cdbback\2016-01-06 20.02.28-1280-d.zip]
+[2016.01.06 20:02:28] [0076m.53s.959ms] [0] iCDB Server PI: Database backup: DONE
+[2016.01.06 20:02:28] [0076m.54s.011ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2016.01.06 20:02:28] [0076m.54s.011ms] [0] Database GUARD OK: [131056]
+[2016.01.06 20:02:28] [0076m.54s.011ms] [0] SingleFile: [d190-40f5-ceb4-6284] SFI version check [1009] [1009]
+[2016.01.06 20:02:28] [0076m.54s.021ms] [0] SingleFile: [d190-40f5-ceb4-6284] Database SFI header has been read in [6ms 355us]
+[2016.01.06 20:02:28] [0076m.54s.251ms] [1] iCDB Server PI: Stats: Database file sizes: before[131056 (128.0 kB)], after[67248 (65.7 kB)], gain[63808 (62.3 kB)]
+[2016.01.06 20:02:28] [0076m.54s.301ms] [0] Single file [K:\KompElek\Alu-Mentor2\ALU\database\icdb.dat] closed with size [67248 (65.7 kB)]
+[2016.01.06 20:02:28] [0076m.54s.301ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2016.01.06 20:02:28] [0076m.54s.301ms] [1] BackupTransaction: Removing database backup [K:\KompElek\Alu-Mentor2\ALU\database\cdbback\2016-01-06 20.02.28-1280-d.zip]
+[2016.01.06 20:02:28] [0076m.54s.301ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [903190] ticks
+[2016.01.06 20:02:28] [0076m.54s.301ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [230063] microseconds
+[2016.01.06 20:02:28] [0076m.54s.301ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [388]
+[2016.01.06 20:02:28] [0076m.54s.301ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [1686] commands per second
+[2016.01.06 20:02:28] [0076m.54s.361ms] [0] S: STOP

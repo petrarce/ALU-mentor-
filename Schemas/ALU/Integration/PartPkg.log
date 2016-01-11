@@ -1,0 +1,169 @@
+
+                                    Packager
+                                    --------
+
+                       10:20 PM Saturday, January 09, 2016
+                  Job Name: K:\KompElek\Alu-Mentor2\ALU\ALU.prj
+
+
+     Packager     Version: 020806.00
+
+        Commandline is: "C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\win32\bin\package.exe -jK:\KompElek\Alu-Mentor2\ALU\ALU.prj -nBoard1 -i -k -W1PinNets -Add"
+
+     The Common Database is at "K:\KompElek\Alu-Mentor2\ALU\database".
+
+     The Root of this design is "Schematic1".
+
+     The Front End Snapshot of this design is "DxD".
+
+     The PCB Design Path of this design is at "K:\KompElek\Alu-Mentor2\ALU\PCB\Board1.pcb".
+
+     The Central Library is at "K:\KompElek\Alu-Mentor2\Library\Alu-Mentor.lmc".
+
+     Unable to determine the Disable Repackage status.
+     !Repackaging will be allowed!
+
+     The PDBs listed in the project file will be searched to satisfy the parts
+      requirements of the iCDB only for parts not already found in the
+      Target PDB.
+
+     The AllowAlphaRefDes status indicates that reference
+      designators containing all alpha characters should be deleted
+      and the relevant symbols repackaged.
+
+     All existing reference designators and frozen properties will be ignored
+      during packaging except for those on symbols within Reusable Blocks.
+      Only the Room and Cluster symbol properties will be read for the purpose
+      of user designated packaging.  Use with the -y option if back annotation
+      to the Common DataBase is not desired.
+
+     The cross mapping of symbol pin names to Part Number pin
+      numbers will be checked for packaged symbols and mapped correctly
+      for unpackaged symbols.
+
+     Properties that have been checked off in the Property Definition Editor
+      found at Library Manager/Common Properties will be checked for value
+      differences between the PartsDB and the non-null properties on symbols.
+     Those properties checked off will be transferred from the PartsDB to all
+      symbols, both packaged and unpackaged.  However, the property values
+      transferred will be limited to the precision specified in the Notation
+      Settings dialog.
+     The following properties were checked off in the Property Definition Editor:
+       "Pkg Group"
+       "EPFIXEDWIDTH"
+       "EPFIXEDLENGTH"
+       "Term"
+       "SIM_MODEL"
+       "SIM_MODEL_FILE"
+       "Array Component"
+       "ICX_PART_MODEL"
+       "Use Verilog"
+       "Order"
+       "Parametric"
+       "Value2"
+       "Tech"
+       "IBIS"
+       "VHDL Model"
+       "Verilog Model"
+       "Tolerance"
+       "Value"
+
+	Checking for errors in the ICDB...
+
+	No errors found.  Proceeding with packaging...
+
+
+
+     Common Data Base has been read
+
+     Target PDB Name: Integration\LocalPartsDB.pdb
+
+     Number of Part Numbers: 4
+          Part Numb: NOT -> Vend Part: NOT 
+          Part Numb: OR -> Vend Part: OR 
+          Part Numb: 4BitPSReg -> Vend Part: 4BitPSReg 
+          Part Numb: 8BitPSReg -> Vend Part: 8BitPSReg 
+
+     Number of Part Names: 0
+
+     Number of Part Labels: 0
+
+
+     Checking for value differences between non-null symbol properties and PartsDB properties,
+      but only for those properties checked off in the Property Definition Editor
+
+     Checking the validity of the packaging of prepackaged schematic
+      symbols.  Only the first error in symbols having the same
+      Reference Designator will be reported.
+
+     The packaging of all prepackaged schematic symbols is consistent
+      with the Parts DataBase data for the cross mapping of
+      symbol pin names to Part Number pin numbers.
+      Symbols that were not prepackaged will now be packaged correctly.
+      
+     No errors in Existing Schematic Packaging.
+
+     The Common DataBase has been read and will be packaged.
+     Clustering 5 Symbols:
+               5  ****
+     Clustering is Complete
+
+     Packager Assignments successfully completed
+
+
+
+     38 nets were found containing 57 pins
+     5 components were found
+
+     Parsed netlist - Augmenting..
+
+     Augmented - Adding phantom pins....
+
+     Numbering Nets....
+
+    After augmentation of supply pins, there are 38 nets where 27 nets have only one pin:
+      INFO:  Block Schematic1 Page ALU_AReg, Pin CLK on Symbol ALU_Areg: Single pin on net ALU_ACLK.
+      INFO:  Block Schematic1 Page ALU_AReg, Pin OUT1 on Symbol ALU_Areg: Single pin on net ALU_AOUT1.
+      INFO:  Block Schematic1 Page ALU_BReg, Pin CLK on Symbol ALU_BReg: Single pin on net ALU_BCLK.
+      INFO:  Block Schematic1 Page ALU_BReg, Pin OUT0 on Symbol ALU_BReg: Single pin on net ALU_BOUT0.
+      INFO:  Block Schematic1 Page ALU_BReg, Pin OUT1 on Symbol ALU_BReg: Single pin on net ALU_BOUT1.
+      INFO:  Block Schematic1 Page ALU_BReg, Pin OUT2 on Symbol ALU_BReg: Single pin on net ALU_BOUT2.
+      INFO:  Block Schematic1 Page ALU_BReg, Pin OUT3 on Symbol ALU_BReg: Single pin on net ALU_BOUT3.
+      INFO:  Block Schematic1 Page ALU_BReg, Pin OUT4 on Symbol ALU_BReg: Single pin on net ALU_BOUT4.
+      INFO:  Block Schematic1 Page ALU_BReg, Pin OUT5 on Symbol ALU_BReg: Single pin on net ALU_BOUT5.
+      INFO:  Block Schematic1 Page ALU_BReg, Pin OUT6 on Symbol ALU_BReg: Single pin on net ALU_BOUT6.
+      INFO:  Block Schematic1 Page ALU_BReg, Pin OUT7 on Symbol ALU_BReg: Single pin on net ALU_BOUT7.
+      INFO:  Block Schematic1 Page ALU, Pin B1 on Symbol ALU_NOT: Single pin on net ALU_MULT.
+      INFO:  Block Schematic1 Page ALU_OpREG, Pin CLK on Symbol ALU_OpReg: Single pin on net ALU_OpCLK.
+      INFO:  Block Schematic1 Page ALU, Pin Y1 on Symbol ALU_NOT: Single pin on net ALU_OperGO.
+      INFO:  Block Schematic1 Page ALU_OpREG, Pin OUT0 on Symbol ALU_OpReg: Single pin on net ALU_OpOUT0.
+      INFO:  Block Schematic1 Page ALU_OpREG, Pin OUT1 on Symbol ALU_OpReg: Single pin on net ALU_OpOUT1.
+      INFO:  Block Schematic1 Page ALU_OpREG, Pin OUT2 on Symbol ALU_OpReg: Single pin on net ALU_OpOUT2.
+      INFO:  Block Schematic1 Page ALU, Pin A1 on Symbol ALU_OR: Single pin on net ALU_OpSel_FINISHED.
+      INFO:  Block Schematic1 Page ALU_AReg, Pin OUT0 on Symbol ALU_Areg: Single pin on net ALU_OUT0.
+      INFO:  Block Schematic1 Page ALU_AReg, Pin OUT2 on Symbol ALU_Areg: Single pin on net ALU_OUT2.
+      INFO:  Block Schematic1 Page ALU_AReg, Pin OUT3 on Symbol ALU_Areg: Single pin on net ALU_OUT3.
+      INFO:  Block Schematic1 Page ALU_AReg, Pin OUT4 on Symbol ALU_Areg: Single pin on net ALU_OUT4.
+      INFO:  Block Schematic1 Page ALU_AReg, Pin OUT5 on Symbol ALU_Areg: Single pin on net ALU_OUT5.
+      INFO:  Block Schematic1 Page ALU_AReg, Pin OUT6 on Symbol ALU_Areg: Single pin on net ALU_OUT6.
+      INFO:  Block Schematic1 Page ALU_AReg, Pin OUT7 on Symbol ALU_Areg: Single pin on net ALU_OUT7.
+      INFO:  Block Schematic1 Page ALU, Pin Y2 on Symbol ALU_OR: Single pin on net ALU_RegSw_SetD.
+      INFO:  Block Schematic1 Page ALU, Pin A1 on Symbol ALU_NOT: Single pin on net ALU_SUM.
+
+
+     Checking Pins....
+
+     Packaging has been successfully tested with no errors or warnings.
+
+     Updating the Common DataBase
+
+     A BAM WasIs List: Integration\CDBBackAnno.bam has been created.
+
+The Common DataBase has been successfully updated.
+
+     Packager finished successfully.
+     !THE iCDB IS UP-TO-DATE!
+     
+     An unused pin and gate report has been written to Integration\UnusedPins.txt
+     An unused gate report for gates not in schematic has been written to Integration\UnusedGates.txt
+     An augmented pin report has been written to Integration\AugmentedPins.txt.

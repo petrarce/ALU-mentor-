@@ -1,0 +1,22 @@
+
+/* Sym: 88863080  Path 1: Schematic1  Page 1: Schematic1(ALU) */
+CHANGE 'Schematic1(ALU)' 	INSTANCE
+  SELECT COMP ALU_NOT                 /* Reference Desig is OR1 */
+    PARAM 23 = DELETE                    /* Component Fix flag */
+  SELECT COMP ALU_OR                 /* Reference Desig is NOT1 */
+    PARAM 23 = DELETE                    /* Component Fix flag */
+
+/* Sym: 88861616  Path 1: Schematic1  Page 2: Schematic1(ALU_AReg) */
+CHANGE 'Schematic1(ALU_AReg)' 	INSTANCE
+  SELECT COMP ALU_Areg                 /* Reference Desig is OReg1 */
+    PARAM 23 = DELETE                    /* Component Fix flag */
+
+/* Sym: 89107304  Path 1: Schematic1  Page 3: Schematic1(ALU_OpREG) */
+CHANGE 'Schematic1(ALU_OpREG)' 	INSTANCE
+  SELECT COMP ALU_OpReg                 /* Reference Desig is QReg1 */
+    PARAM 23 = DELETE                    /* Component Fix flag */
+
+/* Sym: 88859192  Path 1: Schematic1  Page 4: Schematic1(ALU_BReg) */
+CHANGE 'Schematic1(ALU_BReg)' 	INSTANCE
+  SELECT COMP ALU_BReg                 /* Reference Desig is OReg2 */
+    PARAM 23 = DELETE                    /* Component Fix flag */

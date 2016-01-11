@@ -1,0 +1,11 @@
+[2016-01-06 18.45.34] -------------------- CREATE --------------------
+[2016-01-06 18.45.34] Creating Project Backup infrastructure for project [K:\KompElek\Alu-Mentor2\ALU\ALU.prj].
+[2016-01-06 18.45.35] Successfully created [AutoSave] backup [2016-01-06 18.45.35 - auto.zip] requested by [IVAN-ой:Ivan].
+[2016-01-07 12.48.40] Successfully created [AutoSave] backup [2016-01-07 12.48.40 - auto.zip] requested by [IVAN-ой:Ivan].
+[2016-01-07 17.43.56] Successfully created [AutoSave] backup [2016-01-07 17.43.52 - auto.zip] requested by [IVAN-ой:Ivan].
+[2016-01-09 10.50.54] Successfully created [AutoSave] backup [2016-01-09 10.50.54 - auto.zip] requested by [IVAN-ой:Ivan].
+[2016-01-09 10.50.54] Removing excessive [AutoSave] backup file [K:\KompElek\Alu-Mentor2\ALU\ProjectBackup\backups\2016-01-06 18.45.35 - auto.zip].
+[2016-01-09 10.50.54] [AutoSave] backup file [ALU\ProjectBackup\backups\2016-01-06 18.45.35 - auto.zip] removed.
+[2016-01-09 14.50.54] Successfully created [AutoSave] backup [2016-01-09 14.50.54 - auto.zip] requested by [IVAN-ой:Ivan].
+[2016-01-09 14.50.54] Removing excessive [AutoSave] backup file [K:\KompElek\Alu-Mentor2\ALU\ProjectBackup\backups\2016-01-07 12.48.40 - auto.zip].
+[2016-01-09 14.50.54] [AutoSave] backup file [ALU\ProjectBackup\backups\2016-01-07 12.48.40 - auto.zip] removed.

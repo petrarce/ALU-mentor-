@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       02:03 PM Saturday, January 09, 2016
+Job Name: K:\KompElek\Alu-Mentor2\Library\Work\CellEditorFiles\Regiaters\SN74LS194A8.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       02:05 PM Saturday, January 09, 2016
+Job Name: K:\KompElek\Alu-Mentor2\Library\Work\CellEditorFiles\Regiaters\SN74LS194A8.pcb
+

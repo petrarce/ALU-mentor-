@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       10:20 PM Saturday, January 09, 2016
+              Job Name: K:\KompElek\Alu-Mentor2\ALU\PCB\Board1.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       10:26 PM Saturday, January 09, 2016
+              Job Name: K:\KompElek\Alu-Mentor2\ALU\PCB\Board1.pcb
+

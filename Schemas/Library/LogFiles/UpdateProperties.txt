@@ -1,0 +1,12 @@
+
+                          Update Properties log file.
+
+                          ----------------------------
+
+                       11:40 PM Tuesday, December 22, 2015
+                 Job Name: K:\KompElek\Alu-Mentor\Alu-Mentor.lmc
+
+The origional .prp file K:\KompElek\Alu-Mentor\CentLib.prp has been backed up in K:\KompElek\Alu-Mentor\CentLib.bak
+
+Updates coming from file C:\MentorGraphics\7.9.5EE\SDD_HOME\standard\config\pcb\DxCentLib.prp.
+

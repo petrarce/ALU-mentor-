@@ -1,0 +1,133 @@
+[2016.01.09 15:10:20] [0000m.00s.037ms] [0] WELCOME
+[2016.01.09 15:10:20] [0000m.00s.038ms] [1] iCDB Server ver.1.094, vt40T8RtWJOG2cE2Nlvc5A, build:535943 created 2013-01-08 09:09:26, sources stamp:vt40T8RtWJOG2cE2Nlvc5A
+[2016.01.09 15:10:20] [0000m.00s.038ms] [1] Copyright 2013 Mentor Graphics Corporation. All Rights Reserved.
+[2016.01.09 15:10:20] [0000m.00s.038ms] [1] Base flow version [7.9.4]
+[2016.01.09 15:10:20] [0000m.00s.038ms] [1] GBS Install Id [30163], Flow Id [EE7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2016.01.09 15:10:20] [0000m.00s.039ms] [1] Machine [IVAN-ой]  User [Ivan]  PID [5796]
+[2016.01.09 15:10:20] [0000m.00s.039ms] [1] Operating system [Microsoft Windows 7 Ultimate Edition, 64-bit Service Pack 1 (build 7601)]
+[2016.01.09 15:10:20] [0000m.00s.039ms] [1] Current working dir [K:\KompElek\Alu-Mentor2\ALU]
+[2016.01.09 15:10:20] [0000m.00s.039ms] [1] PATH [C:\MentorGraphics\7.9.5EE\SDD_HOME\wv\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\lib;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\7-Zip;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft Windows Performance Toolkit\;D:\kpi\II\soft\ML2014A\runtime\win64;D:\kpi\II\soft\ML2014A\bin;D:\kpi\II\soft\ML2014A\polyspace\bin;C:\Program Files (x86)\Skype\Phone\;C:\cygwin-1.7.9DMS\bin;C:\Program Files\Git;C:\Program Files\QuartusII\modelsim_ase\win32aloem;C:\Program Files (x86)\MentorGraphics\9.5PADS\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib]
+[2016.01.09 15:10:20] [0000m.00s.039ms] [1] SDD_HOME [C:\MentorGraphics\7.9.5EE\SDD_HOME] on file system [NTFS]
+[2016.01.09 15:10:20] [0000m.00s.039ms] [1] SDD_PLATFORM [win32]
+[2016.01.09 15:10:20] [0000m.00s.039ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\7.9.5EE\SDD_HOME\standard]
+[2016.01.09 15:10:20] [0000m.00s.039ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2016.01.09 15:10:20] [0000m.00s.039ms] [2] S: Loading config files
+[2016.01.09 15:10:20] [0000m.00s.043ms] [1] Config file [K:\KompElek\Alu-Mentor2\ALU\database\cdbsvr\Server.cfg] not found
+[2016.01.09 15:10:20] [0000m.00s.045ms] [3] S: Config loaded
+[2016.01.09 15:10:20] [0000m.00s.055ms] [0] S: Project path [K:\KompElek\Alu-Mentor2\ALU\database] on file system [NTFS]
+[2016.01.09 15:10:20] [0000m.00s.055ms] [0] S: Project global path [\\IVAN-ой\Users\Ivan\YandexDisk\KPI\III\KompElek\Alu-Mentor2\ALU\database] on file system [NTFS]
+[2016.01.09 15:10:20] [0000m.00s.056ms] [0] S: Project file (.prj) path [\\IVAN-ой\Users\Ivan\YandexDisk\KPI\III\KompElek\Alu-Mentor2\ALU\ALU.prj] on file system [UNKNOWN]
+[2016.01.09 15:10:20] [0000m.00s.056ms] [0] S: Project file (.prj) local path [K:\KompElek\Alu-Mentor2\ALU\ALU.prj] on file system [NTFS]
+[2016.01.09 15:10:20] [0000m.00s.056ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2016.01.09 15:10:20] [0000m.00s.056ms] [0] S: Single-user mode (auto)
+[2016.01.09 15:10:20] [0000m.00s.056ms] [0] S: Event polling mode autodetection
+[2016.01.09 15:10:20] [0000m.00s.060ms] [0] S: Started up automatically by iCDB Client: IVAN-ой:Ivan:1664
+[2016.01.09 15:10:20] [0000m.00s.060ms] [0] S: Auto close mode
+[2016.01.09 15:10:20] [0000m.00s.060ms] [0] S: Database ID [2cea-a7d2-1e34-b86e-ea44-d863-b44d-8650-da51-cfaf-fb33-23c5]
+[2016.01.09 15:10:20] [0000m.00s.060ms] [0] PathTranslator: BEGIN dumping
+[2016.01.09 15:10:20] [0000m.00s.060ms] [0] PathTranslator: Local -> global path prefix list
+[2016.01.09 15:10:20] [0000m.00s.060ms] [0] PathTranslator: [C:\Users] -> [\\IVAN-ой\Users]
+[2016.01.09 15:10:20] [0000m.00s.060ms] [0] PathTranslator: [K:\] -> [\\IVAN-ой\Users\Ivan\YandexDisk\KPI\III]
+[2016.01.09 15:10:20] [0000m.00s.061ms] [0] PathTranslator: Global -> local path prefix list
+[2016.01.09 15:10:20] [0000m.00s.061ms] [0] PathTranslator: [\\IVAN-ой\Users\Ivan\YandexDisk\KPI\III] -> [K:\]
+[2016.01.09 15:10:20] [0000m.00s.061ms] [0] PathTranslator: [\\IVAN-ой\Users] -> [C:\Users]
+[2016.01.09 15:10:20] [0000m.00s.061ms] [0] PathTranslator: END dumping
+[2016.01.09 15:10:20] [0000m.00s.061ms] [0] S: START
+[2016.01.09 15:10:20] [0000m.00s.061ms] [0] S: Server startup lock file created
+[2016.01.09 15:10:20] [0000m.00s.062ms] [0] S: Listening for client connections on port [10000]
+[2016.01.09 15:10:20] [0000m.00s.063ms] [0] S: Server network ID [Ivan-ой:192.168.1.101,Ivan-ой:10000]
+[2016.01.09 15:10:20] [0000m.00s.063ms] [0] S: Server GUID [7a70-a23f-f3b0-ee97-cb60-1961-c601-9650-9921-cfaf-fb33-23c5]
+[2016.01.09 15:10:20] [0000m.00s.064ms] [0] S: Project GUID [2cea-a7d2-1e34-b86e-ea44-d863-b44d-8650-da51-cfaf-fb33-23c5]
+[2016.01.09 15:10:20] [0000m.00s.065ms] [0] S: Wrote data to server address file
+[2016.01.09 15:10:20] [0000m.00s.065ms] [0] S: Server startup lock file removed
+[2016.01.09 15:10:20] [0000m.00s.065ms] [1] ProjectBackupManager: Setting project file (.prj) path: [K:\KompElek\Alu-Mentor2\ALU\ALU.prj]
+[2016.01.09 15:10:20] [0000m.00s.106ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2016.01.09 15:10:20] [0000m.00s.106ms] [0] S: Local disc access time: 27 us
+[2016.01.09 15:10:20] [0000m.00s.106ms] [0] S: File server access time: 32 us
+[2016.01.09 15:10:20] [0000m.00s.107ms] [0] Single file [K:\KompElek\Alu-Mentor2\ALU\database\icdb.dat] size [100016 (97.7 kB)]
+[2016.01.09 15:10:20] [0000m.00s.107ms] [1] Single file [K:\KompElek\Alu-Mentor2\ALU\database\icdb.dat] opened in read-write mode
+[2016.01.09 15:10:20] [0000m.00s.107ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2016.01.09 15:10:20] [0000m.00s.107ms] [0] Database GUARD OK: [100016]
+[2016.01.09 15:10:20] [0000m.00s.108ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2016.01.09 15:10:20] [0000m.00s.108ms] [0] Database GUARD OK: [100016]
+[2016.01.09 15:10:20] [0000m.00s.108ms] [0] SingleFile: [d190-40f5-ceb4-6284] SFI version check [1009] [1009]
+[2016.01.09 15:10:20] [0000m.00s.113ms] [0] SingleFile: [d190-40f5-ceb4-6284] Database SFI header has been read in [4ms 788us]
+[2016.01.09 15:10:20] [0000m.00s.115ms] [0] iCDB Server PI: Server & plugin session [69]
+[2016.01.09 15:10:20] [0000m.00s.116ms] [0] iCDB Server PI: Opening database [K:\KompElek\Alu-Mentor2\ALU\database]
+[2016.01.09 15:10:20] [0000m.00s.116ms] [0] iCDB Server PI: Database [K:\KompElek\Alu-Mentor2\ALU\database] opened
+[2016.01.09 15:10:20] [0000m.00s.126ms] [0] iCDB Database: Checking existence of constraint definitions
+[2016.01.09 15:10:20] [0000m.00s.127ms] [0] iCDB Database: Checking constraint definitions version
+[2016.01.09 15:10:20] [0000m.00s.173ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.24;user.cns=c302-1e36-1495-d6ce-0810-b665-810b-6650-5e21-cfaf-fb33-23c5] up to date
+[2016.01.09 15:10:20] [0000m.00s.445ms] [0] iCDB Server PI: Initializing plugins
+[2016.01.09 15:10:20] [0000m.00s.445ms] [0] iCDB Server PI: Plugins initialized
+[2016.01.09 15:10:20] [0000m.00s.446ms] [0] S: iCDB database loaded
+[2016.01.09 15:10:20] [0000m.00s.447ms] [0] S: Starting threads
+[2016.01.09 15:10:20] [0000m.00s.447ms] [0] BT: Listening for broadcast messages on port [10000]
+[2016.01.09 15:10:20] [0000m.00s.449ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2016.01.09 15:10:20] [0000m.00s.451ms] [0] IT: Session [70] for host [Ivan-ой] user [Ivan] with process ID [1664] created
+[2016.01.09 15:10:20] [0000m.00s.454ms] [1] SC[70]: Registered sub-client [DxD] with ID [1] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:10:20] [0000m.00s.480ms] [1] SC[70]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:10:20] [0000m.00s.483ms] [1] SC[70]: Registered sub-client [xprob] with ID [3] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:10:20] [0000m.00s.549ms] [1] CMT: There are [1] clients now: 70
+[2016.01.09 15:10:22] [0000m.02s.096ms] [1] SC[70]: Registered sub-client [SelectionHolder] with ID [4] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:10:22] [0000m.02s.122ms] [1] SC[70]: Registered sub-client [SymbolEditor] with ID [5] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:10:22] [0000m.02s.125ms] [1] SC[70]: Registered sub-client [EEVM_EEVM_326097644] with ID [6] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:10:22] [0000m.02s.125ms] [1] SC[70]: UnRegistered sub-client [EEVM_EEVM_326097644] with ID [6] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:10:22] [0000m.02s.128ms] [1] SC[70]: Registered sub-client [EEVM_EEVM_326097644] with ID [7] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:10:22] [0000m.02s.140ms] [1] SC[70]: UnRegistered sub-client [EEVM_EEVM_326097644] with ID [7] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:10:22] [0000m.02s.144ms] [1] SC[70]: Registered sub-client [EEVM_EEVM_326097644] with ID [8] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:10:22] [0000m.02s.144ms] [1] SC[70]: UnRegistered sub-client [EEVM_EEVM_326097644] with ID [8] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:10:22] [0000m.02s.147ms] [1] SC[70]: Registered sub-client [EEVM_EEVM_326097644] with ID [9] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:10:22] [0000m.02s.360ms] [1] SC[70]: UnRegistered sub-client [EEVM_EEVM_326097644] with ID [9] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:10:23] [0000m.02s.883ms] [1] SC[70]: Registered sub-client [HdlProject] with ID [10] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:10:23] [0000m.02s.889ms] [1] SC[70]: Registered sub-client [Navigator] with ID [11] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:10:23] [0000m.02s.897ms] [1] SC[70]: Registered sub-client [OutputWindow] with ID [12] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:10:23] [0000m.02s.901ms] [1] SC[70]: Registered sub-client [PlaceDevice] with ID [13] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:10:23] [0000m.02s.942ms] [1] SC[70]: Registered sub-client [SAE] with ID [14] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:10:23] [0000m.02s.945ms] [1] SC[70]: Registered sub-client [CCZAddin] with ID [15] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:10:23] [0000m.02s.948ms] [1] SC[70]: Registered sub-client [DxThumbnails] with ID [16] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:10:23] [0000m.03s.064ms] [1] SC[70]: Registered sub-client [SheetConnectorsCacheDxD:1452345023] with ID [17] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:10:23] [0000m.03s.073ms] [1] SC[70]: Registered sub-client [NetsNamesCollectorDxD:1452345023] with ID [18] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:10:23] [0000m.03s.296ms] [1] SC[70]: Registered sub-client [DxDbSearch] with ID [19] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:10:28] [0000m.08s.016ms] [1] SC[70]: Registered sub-client [ObjectHolder_329180552] with ID [20] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:10:28] [0000m.08s.019ms] [1] SC[70]: Registered sub-client [BlockCacheDxD:333180224] with ID [21] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:10:28] [0000m.08s.022ms] [1] SC[70]: Registered sub-client [GlobalNetAliasUpdater_329180728] with ID [22] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:10:28] [0000m.08s.025ms] [1] SC[70]: Registered sub-client [IcdbNetProcessorSubClientDxD:328009816] with ID [23] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:10:45] [0000m.24s.593ms] [0] DFAMT: File server access time: 65 us
+[2016.01.09 15:12:41] [0002m.21s.452ms] [1] SC[70]: UnRegistered sub-client [GlobalNetAliasUpdater_329180728] with ID [22] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:12:41] [0002m.21s.453ms] [1] SC[70]: UnRegistered sub-client [BlockCacheDxD:333180224] with ID [21] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:12:41] [0002m.21s.453ms] [1] SC[70]: UnRegistered sub-client [ObjectHolder_329180552] with ID [20] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:12:41] [0002m.21s.453ms] [1] SC[70]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:328009816] with ID [23] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:12:41] [0002m.21s.457ms] [1] SC[70]: UnRegistered sub-client [SelectionHolder] with ID [4] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:12:41] [0002m.21s.459ms] [1] SC[70]: UnRegistered sub-client [SheetConnectorsCacheDxD:1452345023] with ID [17] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:12:41] [0002m.21s.459ms] [1] SC[70]: UnRegistered sub-client [NetsNamesCollectorDxD:1452345023] with ID [18] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:12:41] [0002m.21s.460ms] [1] SC[70]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:12:41] [0002m.21s.460ms] [1] SC[70]: UnRegistered sub-client [DxD] with ID [1] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:12:41] [0002m.21s.470ms] [1] SC[70]: UnRegistered sub-client [xprob] with ID [3] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:12:41] [0002m.21s.470ms] [1] SC[70]: UnRegistered sub-client [SymbolEditor] with ID [5] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:12:41] [0002m.21s.472ms] [1] SC[70]: UnRegistered sub-client [Navigator] with ID [11] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:12:41] [0002m.21s.473ms] [1] SC[70]: UnRegistered sub-client [OutputWindow] with ID [12] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:12:41] [0002m.21s.475ms] [1] SC[70]: UnRegistered sub-client [DxDbSearch] with ID [19] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:12:41] [0002m.21s.476ms] [1] SC[70]: UnRegistered sub-client [SAE] with ID [14] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:12:41] [0002m.21s.478ms] [1] SC[70]: UnRegistered sub-client [CCZAddin] with ID [15] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:12:41] [0002m.21s.479ms] [1] SC[70]: UnRegistered sub-client [DxThumbnails] with ID [16] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:12:42] [0002m.21s.734ms] [1] SC[70]: UnRegistered sub-client [PlaceDevice] with ID [13] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:12:42] [0002m.21s.749ms] [1] SC[70]: UnRegistered sub-client [HdlProject] with ID [10] for session ID [70] host [Ivan-ой] user [Ivan] process ID [1664]
+[2016.01.09 15:12:42] [0002m.21s.838ms] [1] CMT: Removed client [70]
+[2016.01.09 15:12:42] [0002m.21s.838ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2016.01.09 15:12:44] [0002m.23s.638ms] [0] CMT: Starting server auto-close
+[2016.01.09 15:12:44] [0002m.23s.707ms] [0] S: Closing server
+[2016.01.09 15:12:44] [0002m.23s.752ms] [0] iCDB Server PI: Closing plugins
+[2016.01.09 15:12:44] [0002m.23s.752ms] [0] iCDB Server PI: Plugins closed
+[2016.01.09 15:12:44] [0002m.23s.752ms] [0] iCDB Server PI: Unloading database
+[2016.01.09 15:12:44] [0002m.23s.752ms] [0] iCDB Server PI: Saving storage
+[2016.01.09 15:12:44] [0002m.23s.752ms] [0] iCDB Server PI: Closing database
+[2016.01.09 15:12:44] [0002m.23s.788ms] [1] iCDB Server PI: Stats: Database defragmentation: max[1] avg[1] holes[11%] data[90%]
+[2016.01.09 15:12:44] [0002m.23s.789ms] [1] iCDB Server PI: Stats: Database file size [142984 (139.6 kB)]
+[2016.01.09 15:12:44] [0002m.23s.827ms] [0] iCDB Server PI: Database closed
+[2016.01.09 15:12:44] [0002m.23s.827ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [34718] ticks
+[2016.01.09 15:12:44] [0002m.23s.827ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [8843] microseconds
+[2016.01.09 15:12:44] [0002m.23s.827ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [57]
+[2016.01.09 15:12:44] [0002m.23s.827ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [6445] commands per second
+[2016.01.09 15:12:44] [0002m.23s.829ms] [0] Single file [K:\KompElek\Alu-Mentor2\ALU\database\icdb.dat] closed with size [142984 (139.6 kB)]
+[2016.01.09 15:12:44] [0002m.23s.970ms] [0] S: STOP
