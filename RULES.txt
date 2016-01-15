@@ -7,5 +7,5 @@ Restrictions:
 -never DELETE commits
 -never DELETE branches
 -!!!never push into MASTER!!!
-Have some questions? Call Vaniok)
+Have some questions? Call Vaniok).
 
