@@ -1,5 +1,5 @@
 
-/* Sym: 89767704  Path 1: Schematic1  Page 2: Schematic1(8BitSum) */
+/* Sym: 94226768  Path 1: Schematic1  Page 2: Schematic1(8BitSum) */
 CHANGE 'Schematic1(8BitSum)' 	INSTANCE
   SELECT COMP $2I69                 /* Reference Desig is AND2 */
     PARAM 23 = DELETE                    /* Component Fix flag */

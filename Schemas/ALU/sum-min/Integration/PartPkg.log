@@ -2,23 +2,23 @@
                                     Packager
                                     --------
 
-                       09:40 PM Thursday, January 14, 2016
-Job Name: C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\sum-min.prj
+                        09:58 AM Friday, January 15, 2016
+    Job Name: C:\Users\Ivan\Desktop\Gorovenko\Schemas\ALU\sum-min\sum-min.prj
 
 
      Packager     Version: 020806.00
 
-        Commandline is: "C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\win32\bin\package.exe -jC:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\sum-min.prj -nBoard1 -i -k -W1PinNets -Add"
+        Commandline is: "C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\win32\bin\package.exe -jC:\Users\Ivan\Desktop\Gorovenko\Schemas\ALU\sum-min\sum-min.prj -nBoard1 -i -k -W1PinNets -Add"
 
-     The Common Database is at "C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database".
+     The Common Database is at "C:\Users\Ivan\Desktop\Gorovenko\Schemas\ALU\sum-min\database".
 
      The Root of this design is "Schematic1".
 
      The Front End Snapshot of this design is "DxD".
 
-     The PCB Design Path of this design is at "C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\PCB\Board1.pcb".
+     The PCB Design Path of this design is at "C:\Users\Ivan\Desktop\Gorovenko\Schemas\ALU\sum-min\PCB\Board1.pcb".
 
-     The Central Library is at "C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\Library\Alu-Mentor.lmc".
+     The Central Library is at "C:\Users\Ivan\Desktop\Gorovenko\Schemas\Library\Alu-Mentor.lmc".
 
      Unable to determine the Disable Repackage status.
      !Repackaging will be allowed!

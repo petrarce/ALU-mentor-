@@ -20,6 +20,7 @@ KEY FwdAnnoSchematicRefDesChanges "1"
 KEY FwdAnnoRemoveTraces "1"
 KEY FwdAnnoRemoveHangers "1"
 KEY AllowAlpha "0"
+KEY UpdateJobPrefsDB "CAD"
 ENDSECTION
 SECTION DesignInfo
 KEY BorderSymbols "./borders.ini"
