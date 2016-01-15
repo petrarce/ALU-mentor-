@@ -1,0 +1,189 @@
+[2016.01.14 20:46:00] [0000m.00s.035ms] [0] WELCOME
+[2016.01.14 20:46:00] [0000m.00s.036ms] [1] iCDB Server ver.1.094, vt40T8RtWJOG2cE2Nlvc5A, build:535943 created 2013-01-08 09:09:26, sources stamp:vt40T8RtWJOG2cE2Nlvc5A
+[2016.01.14 20:46:00] [0000m.00s.036ms] [1] Copyright 2013 Mentor Graphics Corporation. All Rights Reserved.
+[2016.01.14 20:46:00] [0000m.00s.036ms] [1] Base flow version [7.9.4]
+[2016.01.14 20:46:00] [0000m.00s.036ms] [1] GBS Install Id [30163], Flow Id [EE7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2016.01.14 20:46:00] [0000m.00s.037ms] [1] Machine [IVAN-ой]  User [Ivan]  PID [5136]
+[2016.01.14 20:46:00] [0000m.00s.037ms] [1] Operating system [Microsoft Windows 7 Ultimate Edition, 64-bit Service Pack 1 (build 7601)]
+[2016.01.14 20:46:00] [0000m.00s.037ms] [1] Current working dir [C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min]
+[2016.01.14 20:46:00] [0000m.00s.037ms] [1] PATH [C:\MentorGraphics\7.9.5EE\SDD_HOME\wv\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\lib;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\7-Zip;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft Windows Performance Toolkit\;D:\kpi\II\soft\ML2014A\runtime\win64;D:\kpi\II\soft\ML2014A\bin;D:\kpi\II\soft\ML2014A\polyspace\bin;C:\Program Files (x86)\Skype\Phone\;C:\cygwin-1.7.9DMS\bin;C:\Program Files\Git;C:\Program Files\QuartusII\modelsim_ase\win32aloem;C:\Program Files (x86)\MentorGraphics\9.5PADS\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib]
+[2016.01.14 20:46:00] [0000m.00s.037ms] [1] SDD_HOME [C:\MentorGraphics\7.9.5EE\SDD_HOME] on file system [NTFS]
+[2016.01.14 20:46:00] [0000m.00s.037ms] [1] SDD_PLATFORM [win32]
+[2016.01.14 20:46:00] [0000m.00s.037ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\7.9.5EE\SDD_HOME\standard]
+[2016.01.14 20:46:00] [0000m.00s.037ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2016.01.14 20:46:00] [0000m.00s.037ms] [2] S: Loading config files
+[2016.01.14 20:46:00] [0000m.00s.047ms] [1] Config file [C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database\cdbsvr\Server.cfg] not found
+[2016.01.14 20:46:00] [0000m.00s.049ms] [3] S: Config loaded
+[2016.01.14 20:46:00] [0000m.00s.050ms] [0] S: Project path [C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database] on file system [NTFS]
+[2016.01.14 20:46:00] [0000m.00s.051ms] [0] S: Project global path [\\IVAN-ой\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database] on file system [NTFS]
+[2016.01.14 20:46:00] [0000m.00s.051ms] [0] S: Project file (.prj) path [\\IVAN-ой\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\sum-min.prj] on file system [UNKNOWN]
+[2016.01.14 20:46:00] [0000m.00s.051ms] [0] S: Project file (.prj) local path [C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\sum-min.prj] on file system [NTFS]
+[2016.01.14 20:46:00] [0000m.00s.051ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2016.01.14 20:46:00] [0000m.00s.051ms] [0] S: Single-user mode (auto)
+[2016.01.14 20:46:00] [0000m.00s.051ms] [0] S: Event polling mode autodetection
+[2016.01.14 20:46:00] [0000m.00s.057ms] [0] S: Started up automatically by iCDB Client: IVAN-ой:Ivan:5516
+[2016.01.14 20:46:00] [0000m.00s.057ms] [0] S: Auto close mode
+[2016.01.14 20:46:00] [0000m.00s.057ms] [0] S: Database ID [ae1f-44c3-37ba-a6ea-8ece-796d-ece7-9650-db12-cfaf-fb33-23c5]
+[2016.01.14 20:46:00] [0000m.00s.057ms] [0] PathTranslator: BEGIN dumping
+[2016.01.14 20:46:00] [0000m.00s.057ms] [0] PathTranslator: Local -> global path prefix list
+[2016.01.14 20:46:00] [0000m.00s.057ms] [0] PathTranslator: [C:\Users] -> [\\IVAN-ой\Users]
+[2016.01.14 20:46:00] [0000m.00s.057ms] [0] PathTranslator: [K:\] -> [\\IVAN-ой\Users\Ivan\YandexDisk\KPI\III]
+[2016.01.14 20:46:00] [0000m.00s.057ms] [0] PathTranslator: Global -> local path prefix list
+[2016.01.14 20:46:00] [0000m.00s.057ms] [0] PathTranslator: [\\IVAN-ой\Users\Ivan\YandexDisk\KPI\III] -> [K:\]
+[2016.01.14 20:46:00] [0000m.00s.057ms] [0] PathTranslator: [\\IVAN-ой\Users] -> [C:\Users]
+[2016.01.14 20:46:00] [0000m.00s.057ms] [0] PathTranslator: END dumping
+[2016.01.14 20:46:00] [0000m.00s.057ms] [0] S: START
+[2016.01.14 20:46:00] [0000m.00s.058ms] [0] S: Server startup lock file created
+[2016.01.14 20:46:00] [0000m.00s.058ms] [0] S: Listening for client connections on port [10000]
+[2016.01.14 20:46:00] [0000m.00s.059ms] [0] S: Server network ID [Ivan-ой:192.168.1.101,Ivan-ой:10000]
+[2016.01.14 20:46:00] [0000m.00s.059ms] [0] S: Server GUID [b601-1b88-4404-6e9a-8ece-796d-ece7-9650-9411-cfaf-fb33-23c5]
+[2016.01.14 20:46:00] [0000m.00s.059ms] [0] S: Project GUID [ae1f-44c3-37ba-a6ea-8ece-796d-ece7-9650-db12-cfaf-fb33-23c5]
+[2016.01.14 20:46:00] [0000m.00s.061ms] [0] S: Wrote data to server address file
+[2016.01.14 20:46:00] [0000m.00s.061ms] [0] S: Server startup lock file removed
+[2016.01.14 20:46:00] [0000m.00s.061ms] [1] ProjectBackupManager: Setting project file (.prj) path: [C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\sum-min.prj]
+[2016.01.14 20:46:01] [0000m.00s.264ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2016.01.14 20:46:01] [0000m.00s.265ms] [0] S: Local disc access time: 33 us
+[2016.01.14 20:46:01] [0000m.00s.265ms] [0] S: File server access time: 39 us
+[2016.01.14 20:46:01] [0000m.00s.266ms] [0] Single file [C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database\icdb.dat] size [83696 (81.7 kB)]
+[2016.01.14 20:46:01] [0000m.00s.266ms] [1] Single file [C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database\icdb.dat] opened in read-write mode
+[2016.01.14 20:46:01] [0000m.00s.266ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2016.01.14 20:46:01] [0000m.00s.266ms] [0] Database GUARD OK: [83696]
+[2016.01.14 20:46:01] [0000m.00s.267ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2016.01.14 20:46:01] [0000m.00s.267ms] [0] Database GUARD OK: [83696]
+[2016.01.14 20:46:01] [0000m.00s.267ms] [0] SingleFile: [f800-9dd0-20e5-6001] SFI version check [1009] [1009]
+[2016.01.14 20:46:01] [0000m.00s.270ms] [0] SingleFile: [f800-9dd0-20e5-6001] Database SFI header has been read in [3ms 247us]
+[2016.01.14 20:46:01] [0000m.00s.274ms] [0] iCDB Server PI: Server & plugin session [28]
+[2016.01.14 20:46:01] [0000m.00s.274ms] [0] iCDB Server PI: Opening database [C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database]
+[2016.01.14 20:46:01] [0000m.00s.274ms] [0] iCDB Server PI: Database [C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database] opened
+[2016.01.14 20:46:01] [0000m.00s.339ms] [0] iCDB Database: Checking existence of constraint definitions
+[2016.01.14 20:46:01] [0000m.00s.339ms] [0] iCDB Database: Checking constraint definitions version
+[2016.01.14 20:46:01] [0000m.00s.419ms] [0] iCDB Database: Creating database content backup before upgrade
+[2016.01.14 20:46:01] [0000m.00s.419ms] [1] iCDB Storage Server: Database backup: ProjectPath[C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database]
+[2016.01.14 20:46:01] [0000m.00s.429ms] [0] iCDB Storage Server Backup Thread: Database backup: BackupPath[C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database\cdbback\2016-01-14 20.46.01-5136.zip]
+[2016.01.14 20:46:01] [0000m.00s.520ms] [0] iCDB Storage Server Backup Thread: Backup database DONE: Result[ Succeeded[TRUE]] BackupPath[C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database\cdbback\2016-01-14 20.46.01-5136.zip]
+[2016.01.14 20:46:01] [0000m.00s.521ms] [0] iCDB Database: Database content backed up to [C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database\cdbback\2016-01-14 20.46.01-5136.zip] of size [86 964 bytes (84.9 kB)]  in [102ms 135us]
+[2016.01.14 20:46:01] [0000m.00s.535ms] [0] iCDB Database: Upgrading constraint definitions from version [ce_ee.cns=7.10.24;user.cns=e6f6-3031-dca0-5295-1d1f-3966-d1f3-9650-c701-ffef-8fbd-59ca]
+[2016.01.14 20:46:01] [0000m.00s.549ms] [0] iCDB Database: Loading snapshot [1:DxD] version [2709]
+[2016.01.14 20:46:01] [0000m.00s.571ms] [0] iCDB Database: Snapshot [1:DxD] loaded in [11ms 257us]
+[2016.01.14 20:46:01] [0000m.00s.571ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [1:DxD]
+[2016.01.14 20:46:01] [0000m.00s.575ms] [0] iCDB Database: Constraint definitions for snapshot [1:DxD] upgraded in [4ms 626us]
+[2016.01.14 20:46:01] [0000m.00s.575ms] [0] iCDB Database: Saving snapshot [1:DxD]
+[2016.01.14 20:46:01] [0000m.00s.582ms] [0] iCDB Database: Snapshot [1:DxD] saved in [6ms 867us]
+[2016.01.14 20:46:01] [0000m.00s.594ms] [1] Diagnostic: Cdb_cmp_dxd_view maps are not equal in size
+[2016.01.14 20:46:01] [0000m.00s.599ms] [1] Diagnostic: Warning: {[Bus] [1] } --> UID does not exist
+[2016.01.14 20:46:01] [0000m.00s.599ms] [1] Diagnostic: Check failed on Block: Schematic1
+[2016.01.14 20:46:01] [0000m.00s.615ms] [1] Diagnostic: Snapshot [1:DxD] integrity check FAILED
+[2016.01.14 20:46:01] [0000m.00s.617ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database\s1\cdbcatlg\catlgatl.v] - auto-saving it
+[2016.01.14 20:46:01] [0000m.00s.658ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database\s1\cdbcnfgs\2000000010000050.blk\ces_obj_state] - auto-saving it
+[2016.01.14 20:46:01] [0000m.00s.658ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database\s1\cdbcnfgs\2000000010000050.blk\cesatl.v] - auto-saving it
+[2016.01.14 20:46:01] [0000m.00s.658ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database\s1\uids] - auto-saving it
+[2016.01.14 20:46:01] [0000m.00s.658ms] [0] iCDB Database: Loading snapshot [2:Board1_layout_temp] version [2709]
+[2016.01.14 20:46:01] [0000m.00s.667ms] [0] iCDB Database: Snapshot [2:Board1_layout_temp] loaded in [8ms 632us]
+[2016.01.14 20:46:01] [0000m.00s.667ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [2:Board1_layout_temp]
+[2016.01.14 20:46:01] [0000m.00s.672ms] [0] iCDB Database: Constraint definitions for snapshot [2:Board1_layout_temp] upgraded in [4ms 632us]
+[2016.01.14 20:46:01] [0000m.00s.672ms] [0] iCDB Database: Saving snapshot [2:Board1_layout_temp]
+[2016.01.14 20:46:01] [0000m.00s.677ms] [0] iCDB Database: Snapshot [2:Board1_layout_temp] saved in [5ms 80us]
+[2016.01.14 20:46:01] [0000m.00s.685ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database\s2\cdbcatlg\catlgatl.v] - auto-saving it
+[2016.01.14 20:46:01] [0000m.00s.685ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database\s2\cdbcnfgs\2000000010000050.blk\ces_obj_state] - auto-saving it
+[2016.01.14 20:46:01] [0000m.00s.685ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database\s2\cdbcnfgs\2000000010000050.blk\cesatl.v] - auto-saving it
+[2016.01.14 20:46:01] [0000m.00s.686ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database\s2\uids] - auto-saving it
+[2016.01.14 20:46:01] [0000m.00s.686ms] [0] iCDB Database: Loading snapshot [3:Board1] version [2709]
+[2016.01.14 20:46:01] [0000m.00s.694ms] [0] iCDB Database: Snapshot [3:Board1] loaded in [7ms 890us]
+[2016.01.14 20:46:01] [0000m.00s.694ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [3:Board1]
+[2016.01.14 20:46:01] [0000m.00s.699ms] [0] iCDB Database: Constraint definitions for snapshot [3:Board1] upgraded in [4ms 609us]
+[2016.01.14 20:46:01] [0000m.00s.699ms] [0] iCDB Database: Saving snapshot [3:Board1]
+[2016.01.14 20:46:01] [0000m.00s.704ms] [0] iCDB Database: Snapshot [3:Board1] saved in [5ms 167us]
+[2016.01.14 20:46:01] [0000m.00s.711ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database\s3\cdbcatlg\catlgatl.v] - auto-saving it
+[2016.01.14 20:46:01] [0000m.00s.712ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database\s3\cdbcnfgs\2000000010000050.blk\ces_obj_state] - auto-saving it
+[2016.01.14 20:46:01] [0000m.00s.712ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database\s3\cdbcnfgs\2000000010000050.blk\cesatl.v] - auto-saving it
+[2016.01.14 20:46:01] [0000m.00s.712ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database\s3\uids] - auto-saving it
+[2016.01.14 20:46:01] [0000m.00s.712ms] [0] iCDB Database: Loading snapshot [4:RefSync] version [2709]
+[2016.01.14 20:46:01] [0000m.00s.723ms] [0] iCDB Database: Snapshot [4:RefSync] loaded in [10ms 618us]
+[2016.01.14 20:46:01] [0000m.00s.723ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [4:RefSync]
+[2016.01.14 20:46:01] [0000m.00s.728ms] [0] iCDB Database: Constraint definitions for snapshot [4:RefSync] upgraded in [4ms 955us]
+[2016.01.14 20:46:01] [0000m.00s.728ms] [0] iCDB Database: Saving snapshot [4:RefSync]
+[2016.01.14 20:46:01] [0000m.00s.735ms] [0] iCDB Database: Snapshot [4:RefSync] saved in [6ms 678us]
+[2016.01.14 20:46:01] [0000m.00s.735ms] [1] Diagnostic: Cdb_cmp_dxd_view maps are not equal in size
+[2016.01.14 20:46:01] [0000m.00s.737ms] [1] Diagnostic: Warning: {[Bus] [1] } --> UID does not exist
+[2016.01.14 20:46:01] [0000m.00s.737ms] [1] Diagnostic: Check failed on Block: Schematic1
+[2016.01.14 20:46:01] [0000m.00s.745ms] [1] Diagnostic: Snapshot [4:RefSync] integrity check FAILED
+[2016.01.14 20:46:01] [0000m.00s.747ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database\s4\cdbcatlg\catlgatl.v] - auto-saving it
+[2016.01.14 20:46:01] [0000m.00s.748ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database\s4\cdbcnfgs\2000000010000050.blk\ces_obj_state] - auto-saving it
+[2016.01.14 20:46:01] [0000m.00s.748ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database\s4\cdbcnfgs\2000000010000050.blk\cesatl.v] - auto-saving it
+[2016.01.14 20:46:01] [0000m.00s.748ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database\s4\uids] - auto-saving it
+[2016.01.14 20:46:01] [0000m.00s.749ms] [0] iCDB Database: Constraint definitions upgraded to version [ce_ee.cns=7.10.24;user.cns=c302-1e36-1495-d6ce-0810-b665-810b-6650-5e21-cfaf-fb33-23c5]
+[2016.01.14 20:46:01] [0000m.00s.948ms] [0] iCDB Server PI: Initializing plugins
+[2016.01.14 20:46:01] [0000m.00s.957ms] [0] iCDB Server PI: Plugins initialized
+[2016.01.14 20:46:01] [0000m.00s.957ms] [0] S: iCDB database loaded
+[2016.01.14 20:46:01] [0000m.01s.057ms] [1] PrjBackupMgr: Successfully created Project Backup [C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\ProjectBackup\backups\2016-01-14 20.46.01 - consDefUpgr.zip] with GUID [fc52-f137-88bb-867b-9ece-796e-ece7-9650-9411-cfaf-fb33-23c5]
+[2016.01.14 20:46:01] [0000m.01s.058ms] [1] PrjBackupMgr: Migrated iCDB content backup file [C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database\cdbback\2016-01-14 20.46.01-5136.zip] removed
+[2016.01.14 20:46:01] [0000m.01s.059ms] [0] S: Starting threads
+[2016.01.14 20:46:01] [0000m.01s.061ms] [0] IT: Session [29] for host [Ivan-ой] user [Ivan] with process ID [5516] created
+[2016.01.14 20:46:01] [0000m.01s.061ms] [1] CMT: There are [1] clients now: 29
+[2016.01.14 20:46:01] [0000m.01s.061ms] [1] SCL: WARNING: Could not find client [29] stat data
+[2016.01.14 20:46:01] [0000m.01s.065ms] [0] BT: Listening for broadcast messages on port [10000]
+[2016.01.14 20:46:01] [0000m.01s.073ms] [1] SC[29]: Registered sub-client [DxD] with ID [1] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:46:01] [0000m.01s.101ms] [1] SC[29]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:46:01] [0000m.01s.105ms] [1] SC[29]: Registered sub-client [xprob] with ID [3] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:46:03] [0000m.02s.895ms] [1] SC[29]: Registered sub-client [SelectionHolder] with ID [4] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:46:03] [0000m.02s.985ms] [1] SC[29]: Registered sub-client [SymbolEditor] with ID [5] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:46:03] [0000m.02s.990ms] [1] SC[29]: Registered sub-client [EEVM_EEVM_329479156] with ID [6] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:46:03] [0000m.02s.990ms] [1] SC[29]: UnRegistered sub-client [EEVM_EEVM_329479156] with ID [6] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:46:03] [0000m.02s.995ms] [1] SC[29]: Registered sub-client [EEVM_EEVM_329479156] with ID [7] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:46:03] [0000m.03s.015ms] [1] SC[29]: UnRegistered sub-client [EEVM_EEVM_329479156] with ID [7] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:46:03] [0000m.03s.074ms] [1] SC[29]: Registered sub-client [EEVM_EEVM_329479156] with ID [8] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:46:03] [0000m.03s.075ms] [1] SC[29]: UnRegistered sub-client [EEVM_EEVM_329479156] with ID [8] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:46:04] [0000m.03s.410ms] [1] SC[29]: Registered sub-client [EEVM_EEVM_329479156] with ID [9] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:46:04] [0000m.03s.424ms] [1] SC[29]: UnRegistered sub-client [EEVM_EEVM_329479156] with ID [9] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:46:04] [0000m.03s.936ms] [1] SC[29]: Registered sub-client [HdlProject] with ID [10] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:46:04] [0000m.03s.952ms] [1] SC[29]: Registered sub-client [Navigator] with ID [11] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:46:04] [0000m.03s.963ms] [1] SC[29]: Registered sub-client [OutputWindow] with ID [12] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:46:04] [0000m.03s.967ms] [1] SC[29]: Registered sub-client [PlaceDevice] with ID [13] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:46:04] [0000m.04s.176ms] [1] SC[29]: Registered sub-client [SAE] with ID [14] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:46:04] [0000m.04s.181ms] [1] SC[29]: Registered sub-client [CCZAddin] with ID [15] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:46:04] [0000m.04s.185ms] [1] SC[29]: Registered sub-client [DxThumbnails] with ID [16] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:46:05] [0000m.04s.357ms] [1] SC[29]: Registered sub-client [SheetConnectorsCacheDxD:1452797165] with ID [17] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:46:05] [0000m.04s.366ms] [1] SC[29]: Registered sub-client [NetsNamesCollectorDxD:1452797165] with ID [18] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:46:05] [0000m.04s.741ms] [1] SC[29]: Registered sub-client [DxDbSearch] with ID [19] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:46:17] [0000m.16s.202ms] [1] SC[29]: Registered sub-client [ObjectHolder_165214920] with ID [20] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:46:17] [0000m.16s.207ms] [1] SC[29]: Registered sub-client [BlockCacheDxD:375769536] with ID [21] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:46:17] [0000m.16s.210ms] [1] SC[29]: Registered sub-client [GlobalNetAliasUpdater_165215096] with ID [22] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:46:17] [0000m.16s.215ms] [1] SC[29]: Registered sub-client [IcdbNetProcessorSubClientDxD:335967768] with ID [23] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:46:21] [0000m.20s.214ms] [0] DFAMT: File server access time: 41 us
+[2016.01.14 20:56:16] [0010m.15s.297ms] [1] SC[29]: UnRegistered sub-client [GlobalNetAliasUpdater_165215096] with ID [22] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:56:16] [0010m.15s.299ms] [1] SC[29]: UnRegistered sub-client [BlockCacheDxD:375769536] with ID [21] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:56:16] [0010m.15s.300ms] [1] SC[29]: UnRegistered sub-client [ObjectHolder_165214920] with ID [20] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:56:16] [0010m.15s.300ms] [1] SC[29]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:335967768] with ID [23] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:56:16] [0010m.15s.306ms] [1] SC[29]: UnRegistered sub-client [SelectionHolder] with ID [4] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:56:16] [0010m.15s.306ms] [1] SC[29]: UnRegistered sub-client [SheetConnectorsCacheDxD:1452797165] with ID [17] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:56:16] [0010m.15s.307ms] [1] SC[29]: UnRegistered sub-client [NetsNamesCollectorDxD:1452797165] with ID [18] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:56:16] [0010m.15s.308ms] [1] SC[29]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:56:16] [0010m.15s.309ms] [1] SC[29]: UnRegistered sub-client [DxD] with ID [1] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:56:16] [0010m.15s.318ms] [1] SC[29]: UnRegistered sub-client [xprob] with ID [3] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:56:16] [0010m.15s.318ms] [1] SC[29]: UnRegistered sub-client [SymbolEditor] with ID [5] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:56:16] [0010m.15s.320ms] [1] SC[29]: UnRegistered sub-client [Navigator] with ID [11] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:56:16] [0010m.15s.321ms] [1] SC[29]: UnRegistered sub-client [OutputWindow] with ID [12] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:56:16] [0010m.15s.323ms] [1] SC[29]: UnRegistered sub-client [DxDbSearch] with ID [19] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:56:16] [0010m.15s.324ms] [1] SC[29]: UnRegistered sub-client [SAE] with ID [14] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:56:16] [0010m.15s.327ms] [1] SC[29]: UnRegistered sub-client [CCZAddin] with ID [15] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:56:16] [0010m.15s.327ms] [1] SC[29]: UnRegistered sub-client [DxThumbnails] with ID [16] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:56:16] [0010m.15s.651ms] [1] SC[29]: UnRegistered sub-client [PlaceDevice] with ID [13] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:56:16] [0010m.15s.681ms] [1] SC[29]: UnRegistered sub-client [HdlProject] with ID [10] for session ID [29] host [Ivan-ой] user [Ivan] process ID [5516]
+[2016.01.14 20:56:16] [0010m.15s.788ms] [1] CMT: Removed client [29]
+[2016.01.14 20:56:16] [0010m.15s.788ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2016.01.14 20:56:18] [0010m.17s.189ms] [0] CMT: Starting server auto-close
+[2016.01.14 20:56:18] [0010m.17s.232ms] [0] S: Closing server
+[2016.01.14 20:56:18] [0010m.17s.308ms] [0] iCDB Server PI: Closing plugins
+[2016.01.14 20:56:18] [0010m.17s.308ms] [0] iCDB Server PI: Plugins closed
+[2016.01.14 20:56:18] [0010m.17s.308ms] [0] iCDB Server PI: Unloading database
+[2016.01.14 20:56:18] [0010m.17s.308ms] [0] iCDB Server PI: Saving storage
+[2016.01.14 20:56:18] [0010m.17s.308ms] [0] iCDB Server PI: Closing database
+[2016.01.14 20:56:18] [0010m.17s.431ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[0%] data[90%]
+[2016.01.14 20:56:18] [0010m.17s.431ms] [1] iCDB Server PI: Stats: Database file size [132920 (129.8 kB)]
+[2016.01.14 20:56:18] [0010m.17s.471ms] [0] iCDB Server PI: Database closed
+[2016.01.14 20:56:18] [0010m.17s.471ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [3067] ticks
+[2016.01.14 20:56:18] [0010m.17s.471ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [781] microseconds
+[2016.01.14 20:56:18] [0010m.17s.471ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [13]
+[2016.01.14 20:56:18] [0010m.17s.471ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [16640] commands per second
+[2016.01.14 20:56:18] [0010m.17s.472ms] [0] Single file [C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database\icdb.dat] closed with size [132920 (129.8 kB)]
+[2016.01.14 20:56:18] [0010m.17s.516ms] [0] S: STOP

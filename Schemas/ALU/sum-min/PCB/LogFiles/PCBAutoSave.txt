@@ -1,0 +1,16 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       09:40 PM Thursday, January 14, 2016
+Job Name: C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\PCB\Board1.pcb
+
+Autosave pending at 22:40:58 Thu  Attempting...
+Autosave completed successfully.  22:40:59 Thu
+
+                               Autosave log closed
+                               -------------------
+
+                        04:41 AM Friday, January 15, 2016
+Job Name: C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\PCB\Board1.pcb
+

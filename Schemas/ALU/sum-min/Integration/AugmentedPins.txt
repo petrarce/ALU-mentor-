@@ -1,0 +1,55 @@
+
+------------------------------------------------------------------------
+            Part/Reference             | Pin | Augmented Net Name
+------------------------------------------------------------------------
+ Part XOR                              |
+       XOR8                            |   14| VCC
+       XOR8                            |    7| GND
+       XOR7                            |   14| VCC
+       XOR7                            |    7| GND
+       XOR6                            |   14| VCC
+       XOR6                            |    7| GND
+       XOR5                            |   14| VCC
+       XOR5                            |    7| GND
+       XOR4                            |   14| VCC
+       XOR4                            |    7| GND
+       XOR3                            |   14| VCC
+       XOR3                            |    7| GND
+       XOR2                            |   14| VCC
+       XOR2                            |    7| GND
+       XOR1                            |   14| VCC
+       XOR1                            |    7| GND
+ Part OR                               |
+       OR8                             |   14| VCC
+       OR8                             |    7| GND
+       OR7                             |   14| VCC
+       OR7                             |    7| GND
+       OR6                             |   14| VCC
+       OR6                             |    7| GND
+       OR5                             |   14| VCC
+       OR5                             |    7| GND
+       OR4                             |   14| VCC
+       OR4                             |    7| GND
+       OR3                             |   14| VCC
+       OR3                             |    7| GND
+       OR2                             |   14| VCC
+       OR2                             |    7| GND
+       OR1                             |   14| VCC
+       OR1                             |    7| GND
+ Part AND                              |
+       AND8                            |   14| VCC
+       AND8                            |    7| GND
+       AND7                            |   14| VCC
+       AND7                            |    7| GND
+       AND6                            |   14| VCC
+       AND6                            |    7| GND
+       AND5                            |   14| VCC
+       AND5                            |    7| GND
+       AND4                            |   14| VCC
+       AND4                            |    7| GND
+       AND3                            |   14| VCC
+       AND3                            |    7| GND
+       AND2                            |   14| VCC
+       AND2                            |    7| GND
+       AND1                            |   14| VCC
+       AND1                            |    7| GND

@@ -1,0 +1,6 @@
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'K:\KompElek\Alu-Mentor\Work\CellEditorFiles\DM74LS\Config\MultiViaRules.txt'
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'K:\KompElek\Alu-Mentor\Work\CellEditorFiles\DM74LS\Layout\MVO_Rules.txt'

@@ -1,0 +1,142 @@
+[2016.01.14 16:23:09] [0000m.00s.025ms] [0] WELCOME
+[2016.01.14 16:23:09] [0000m.00s.025ms] [1] iCDB Server ver.1.094, vt40T8RtWJOG2cE2Nlvc5A, build:535943 created 2013-01-08 09:09:26, sources stamp:vt40T8RtWJOG2cE2Nlvc5A
+[2016.01.14 16:23:09] [0000m.00s.025ms] [1] Copyright 2013 Mentor Graphics Corporation. All Rights Reserved.
+[2016.01.14 16:23:09] [0000m.00s.025ms] [1] Base flow version [7.9.4]
+[2016.01.14 16:23:09] [0000m.00s.026ms] [1] GBS Install Id [30163], Flow Id [EE7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2016.01.14 16:23:09] [0000m.00s.026ms] [1] Machine [ANDREW-PC]  User [Андрей]  PID [5012]
+[2016.01.14 16:23:09] [0000m.00s.026ms] [1] Operating system [Microsoft Home Premium Edition, 64-bit (build 9200)]
+[2016.01.14 16:23:09] [0000m.00s.026ms] [1] Current working dir [D:\gorov\ALU-mentor--gorovenko-sum-min\sum-min\sum-min]
+[2016.01.14 16:23:09] [0000m.00s.026ms] [1] PATH [C:\MentorGraphics\7.9.5EE\SDD_HOME\wv\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\lib;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\FPC\2.6.0\bin\i386-Win32;C:\Program Files\Java\jdk1.8.0_25\bin;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\MATLAB\R2009b\runtime\win64;C:\Program Files\MATLAB\R2009b\bin;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\IDE\PrivateAssemblies\;]
+[2016.01.14 16:23:09] [0000m.00s.026ms] [1] SDD_HOME [C:\MentorGraphics\7.9.5EE\SDD_HOME] on file system [NTFS]
+[2016.01.14 16:23:09] [0000m.00s.026ms] [1] SDD_PLATFORM [win32]
+[2016.01.14 16:23:09] [0000m.00s.026ms] [1] WDIR [D:\mentor_wants_2;C:\MentorGraphics\7.9.5EE\SDD_HOME\standard]
+[2016.01.14 16:23:09] [0000m.00s.026ms] [1] Local iCDB working dir [D:\mentor_wants_2\iCDB] on file system [NTFS]
+[2016.01.14 16:23:09] [0000m.00s.026ms] [2] S: Loading config files
+[2016.01.14 16:23:09] [0000m.00s.029ms] [1] Config file [D:\gorov\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database\cdbsvr\Server.cfg] not found
+[2016.01.14 16:23:09] [0000m.00s.030ms] [3] S: Config loaded
+[2016.01.14 16:23:09] [0000m.00s.031ms] [0] S: Project path [D:\gorov\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database] on file system [NTFS]
+[2016.01.14 16:23:09] [0000m.00s.031ms] [0] S: Project file (.prj) path [D:\gorov\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\sum-min.prj] on file system [NTFS]
+[2016.01.14 16:23:09] [0000m.00s.032ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2016.01.14 16:23:09] [0000m.00s.032ms] [0] S: Single-user mode (auto)
+[2016.01.14 16:23:09] [0000m.00s.032ms] [0] S: Event polling mode autodetection
+[2016.01.14 16:23:09] [0000m.00s.037ms] [0] S: Started up automatically by iCDB Client: ANDREW-PC:Андрей:5328
+[2016.01.14 16:23:09] [0000m.00s.037ms] [0] S: Auto close mode
+[2016.01.14 16:23:09] [0000m.00s.037ms] [0] S: Database ID [8bae-d4bb-e790-a0b3-9877-796e-8777-9650-cc02-ffef-8fbd-59ca]
+[2016.01.14 16:23:09] [0000m.00s.037ms] [0] PathTranslator: BEGIN dumping
+[2016.01.14 16:23:09] [0000m.00s.037ms] [0] PathTranslator: Local -> global path prefix list
+[2016.01.14 16:23:09] [0000m.00s.037ms] [0] PathTranslator: [C:\WINDOWS\system32\spool\drivers] -> [\\ANDREW-PC\print$]
+[2016.01.14 16:23:09] [0000m.00s.037ms] [0] PathTranslator: [C:\Users] -> [\\ANDREW-PC\Users]
+[2016.01.14 16:23:09] [0000m.00s.038ms] [0] PathTranslator: Global -> local path prefix list
+[2016.01.14 16:23:09] [0000m.00s.038ms] [0] PathTranslator: [\\ANDREW-PC\print$] -> [C:\WINDOWS\system32\spool\drivers]
+[2016.01.14 16:23:09] [0000m.00s.038ms] [0] PathTranslator: [\\ANDREW-PC\Users] -> [C:\Users]
+[2016.01.14 16:23:09] [0000m.00s.038ms] [0] PathTranslator: END dumping
+[2016.01.14 16:23:09] [0000m.00s.038ms] [0] S: START
+[2016.01.14 16:23:09] [0000m.00s.038ms] [0] S: Server startup lock file created
+[2016.01.14 16:23:09] [0000m.00s.038ms] [0] S: Listening for client connections on port [10000]
+[2016.01.14 16:23:09] [0000m.00s.039ms] [0] S: Server network ID [Andrew-PC:192.168.1.102,Andrew-PC:10000]
+[2016.01.14 16:23:09] [0000m.00s.039ms] [0] S: Server GUID [9d4d-4e29-8f2f-ee10-d4fa-7962-5fa7-9650-4ec0-ffef-8fbd-59ca]
+[2016.01.14 16:23:09] [0000m.00s.040ms] [0] S: Project GUID [8bae-d4bb-e790-a0b3-9877-796e-8777-9650-cc02-ffef-8fbd-59ca]
+[2016.01.14 16:23:09] [0000m.00s.040ms] [0] S: Wrote data to server address file
+[2016.01.14 16:23:09] [0000m.00s.040ms] [0] S: Server startup lock file removed
+[2016.01.14 16:23:09] [0000m.00s.041ms] [1] ProjectBackupManager: Setting project file (.prj) path: [D:\gorov\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\sum-min.prj]
+[2016.01.14 16:23:09] [0000m.00s.066ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2016.01.14 16:23:09] [0000m.00s.066ms] [0] S: Local disc access time: 46 us
+[2016.01.14 16:23:09] [0000m.00s.066ms] [0] S: File server access time: 46 us
+[2016.01.14 16:23:09] [0000m.00s.067ms] [0] Single file [D:\gorov\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database\icdb.dat] size [84416 (82.4 kB)]
+[2016.01.14 16:23:09] [0000m.00s.067ms] [1] Single file [D:\gorov\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database\icdb.dat] opened in read-write mode
+[2016.01.14 16:23:09] [0000m.00s.067ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2016.01.14 16:23:09] [0000m.00s.067ms] [0] Database GUARD OK: [84416]
+[2016.01.14 16:23:09] [0000m.00s.068ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2016.01.14 16:23:09] [0000m.00s.068ms] [0] Database GUARD OK: [84416]
+[2016.01.14 16:23:09] [0000m.00s.068ms] [0] SingleFile: [d038-4e0a-0fc5-90de] SFI version check [1009] [1009]
+[2016.01.14 16:23:09] [0000m.00s.070ms] [0] SingleFile: [d038-4e0a-0fc5-90de] Database SFI header has been read in [1ms 539us]
+[2016.01.14 16:23:09] [0000m.00s.073ms] [0] iCDB Server PI: Server & plugin session [19]
+[2016.01.14 16:23:09] [0000m.00s.073ms] [0] iCDB Server PI: Opening database [D:\gorov\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database]
+[2016.01.14 16:23:09] [0000m.00s.073ms] [0] iCDB Server PI: Database [D:\gorov\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database] opened
+[2016.01.14 16:23:09] [0000m.00s.084ms] [0] iCDB Database: Checking existence of constraint definitions
+[2016.01.14 16:23:09] [0000m.00s.084ms] [0] iCDB Database: Checking constraint definitions version
+[2016.01.14 16:23:09] [0000m.00s.130ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.24;user.cns=e6f6-3031-dca0-5295-1d1f-3966-d1f3-9650-c701-ffef-8fbd-59ca] up to date
+[2016.01.14 16:23:09] [0000m.00s.387ms] [0] iCDB Server PI: Initializing plugins
+[2016.01.14 16:23:09] [0000m.00s.387ms] [0] iCDB Server PI: Plugins initialized
+[2016.01.14 16:23:09] [0000m.00s.387ms] [0] S: iCDB database loaded
+[2016.01.14 16:23:09] [0000m.00s.388ms] [0] S: Starting threads
+[2016.01.14 16:23:09] [0000m.00s.389ms] [0] BT: Listening for broadcast messages on port [10000]
+[2016.01.14 16:23:09] [0000m.00s.389ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2016.01.14 16:23:09] [0000m.00s.390ms] [0] IT: Session [20] for host [Andrew-PC] user [Андрей] with process ID [5328] created
+[2016.01.14 16:23:09] [0000m.00s.391ms] [1] SC[20]: Registered sub-client [DxD] with ID [1] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:23:09] [0000m.00s.407ms] [1] SC[20]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:23:09] [0000m.00s.410ms] [1] SC[20]: Registered sub-client [xprob] with ID [3] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:23:09] [0000m.00s.490ms] [1] CMT: There are [1] clients now: 20
+[2016.01.14 16:23:11] [0000m.02s.016ms] [1] SC[20]: Registered sub-client [SelectionHolder] with ID [4] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:23:11] [0000m.02s.029ms] [1] SC[20]: Registered sub-client [SymbolEditor] with ID [5] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:23:11] [0000m.02s.032ms] [1] SC[20]: Registered sub-client [EEVM_EEVM_356599084] with ID [6] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:23:11] [0000m.02s.032ms] [1] SC[20]: UnRegistered sub-client [EEVM_EEVM_356599084] with ID [6] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:23:11] [0000m.02s.035ms] [1] SC[20]: Registered sub-client [EEVM_EEVM_356599084] with ID [7] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:23:11] [0000m.02s.045ms] [1] SC[20]: UnRegistered sub-client [EEVM_EEVM_356599084] with ID [7] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:23:11] [0000m.02s.131ms] [1] SC[20]: Registered sub-client [EEVM_EEVM_356601460] with ID [8] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:23:11] [0000m.02s.131ms] [1] SC[20]: UnRegistered sub-client [EEVM_EEVM_356601460] with ID [8] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:23:11] [0000m.02s.264ms] [1] SC[20]: Registered sub-client [EEVM_EEVM_356601460] with ID [9] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:23:11] [0000m.02s.274ms] [1] SC[20]: UnRegistered sub-client [EEVM_EEVM_356601460] with ID [9] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:23:12] [0000m.02s.979ms] [1] SC[20]: Registered sub-client [HdlProject] with ID [10] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:23:12] [0000m.02s.987ms] [1] SC[20]: Registered sub-client [Navigator] with ID [11] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:23:12] [0000m.03s.000ms] [1] SC[20]: Registered sub-client [OutputWindow] with ID [12] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:23:12] [0000m.03s.007ms] [1] SC[20]: Registered sub-client [PlaceDevice] with ID [13] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:23:12] [0000m.03s.055ms] [1] SC[20]: Registered sub-client [SAE] with ID [14] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:23:12] [0000m.03s.059ms] [1] SC[20]: Registered sub-client [CCZAddin] with ID [15] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:23:12] [0000m.03s.063ms] [1] SC[20]: Registered sub-client [DxThumbnails] with ID [16] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:23:12] [0000m.03s.141ms] [1] SC[20]: Registered sub-client [SheetConnectorsCacheDxD:1452781392] with ID [17] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:23:12] [0000m.03s.149ms] [1] SC[20]: Registered sub-client [NetsNamesCollectorDxD:1452781392] with ID [18] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:23:12] [0000m.03s.434ms] [1] SC[20]: Registered sub-client [DxDbSearch] with ID [19] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:23:30] [0000m.21s.426ms] [0] DFAMT: File server access time: 52 us
+[2016.01.14 16:23:49] [0000m.40s.503ms] [1] SC[20]: Registered sub-client [ObjectHolder_356792920] with ID [20] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:23:49] [0000m.40s.506ms] [1] SC[20]: Registered sub-client [BlockCacheDxD:358808160] with ID [21] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:23:49] [0000m.40s.508ms] [1] SC[20]: Registered sub-client [GlobalNetAliasUpdater_356792392] with ID [22] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:23:49] [0000m.40s.511ms] [1] SC[20]: Registered sub-client [IcdbNetProcessorSubClientDxD:359525048] with ID [23] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:24:46] [0001m.37s.134ms] [1] SC[20]: UnRegistered sub-client [GlobalNetAliasUpdater_356792392] with ID [22] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:24:46] [0001m.37s.134ms] [1] SC[20]: UnRegistered sub-client [BlockCacheDxD:358808160] with ID [21] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:24:46] [0001m.37s.135ms] [1] SC[20]: UnRegistered sub-client [ObjectHolder_356792920] with ID [20] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:24:46] [0001m.37s.135ms] [1] SC[20]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:359525048] with ID [23] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:24:46] [0001m.37s.138ms] [1] SC[20]: UnRegistered sub-client [SelectionHolder] with ID [4] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:24:46] [0001m.37s.139ms] [1] SC[20]: UnRegistered sub-client [SheetConnectorsCacheDxD:1452781392] with ID [17] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:24:46] [0001m.37s.139ms] [1] SC[20]: UnRegistered sub-client [NetsNamesCollectorDxD:1452781392] with ID [18] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:24:46] [0001m.37s.140ms] [1] SC[20]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:24:46] [0001m.37s.140ms] [1] SC[20]: UnRegistered sub-client [DxD] with ID [1] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:24:46] [0001m.37s.147ms] [1] SC[20]: UnRegistered sub-client [xprob] with ID [3] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:24:46] [0001m.37s.147ms] [1] SC[20]: UnRegistered sub-client [SymbolEditor] with ID [5] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:24:46] [0001m.37s.149ms] [1] SC[20]: UnRegistered sub-client [Navigator] with ID [11] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:24:46] [0001m.37s.149ms] [1] SC[20]: UnRegistered sub-client [OutputWindow] with ID [12] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:24:46] [0001m.37s.152ms] [1] SC[20]: UnRegistered sub-client [DxDbSearch] with ID [19] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:24:46] [0001m.37s.153ms] [1] SC[20]: UnRegistered sub-client [SAE] with ID [14] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:24:46] [0001m.37s.155ms] [1] SC[20]: UnRegistered sub-client [CCZAddin] with ID [15] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:24:46] [0001m.37s.155ms] [1] SC[20]: UnRegistered sub-client [DxThumbnails] with ID [16] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:24:46] [0001m.37s.330ms] [1] SC[20]: UnRegistered sub-client [PlaceDevice] with ID [13] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:24:46] [0001m.37s.345ms] [1] SC[20]: UnRegistered sub-client [HdlProject] with ID [10] for session ID [20] host [Andrew-PC] user [Андрей] process ID [5328]
+[2016.01.14 16:24:46] [0001m.37s.621ms] [1] CMT: Removed client [20]
+[2016.01.14 16:24:46] [0001m.37s.621ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2016.01.14 16:24:48] [0001m.38s.723ms] [0] CMT: Starting server auto-close
+[2016.01.14 16:24:48] [0001m.38s.749ms] [0] S: Closing server
+[2016.01.14 16:24:48] [0001m.38s.838ms] [0] iCDB Server PI: Closing plugins
+[2016.01.14 16:24:48] [0001m.38s.838ms] [0] iCDB Server PI: Plugins closed
+[2016.01.14 16:24:48] [0001m.38s.838ms] [0] iCDB Server PI: Unloading database
+[2016.01.14 16:24:48] [0001m.38s.838ms] [0] iCDB Server PI: Saving storage
+[2016.01.14 16:24:48] [0001m.38s.838ms] [0] iCDB Server PI: Closing database
+[2016.01.14 16:24:48] [0001m.38s.921ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[59%] data[78%]
+[2016.01.14 16:24:48] [0001m.38s.921ms] [1] iCDB Server PI: Stats: Database file size [130576 (127.5 kB)]
+[2016.01.14 16:24:48] [0001m.38s.965ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2016.01.14 16:24:48] [0001m.38s.968ms] [0] iCDB Server PI: Database closed
+[2016.01.14 16:24:48] [0001m.38s.968ms] [0] iCDB Server PI: Defragmenting database
+[2016.01.14 16:24:48] [0001m.38s.968ms] [0] iCDB Server PI: Creating database [D:\gorov\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database] backup to file [D:\gorov\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database\cdbback\2016-01-14 16.24.48-5012-d.zip]
+[2016.01.14 16:24:48] [0001m.38s.979ms] [0] iCDB Server PI: Database backup: DONE
+[2016.01.14 16:24:48] [0001m.39s.024ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2016.01.14 16:24:48] [0001m.39s.025ms] [0] Database GUARD OK: [130576]
+[2016.01.14 16:24:48] [0001m.39s.025ms] [0] SingleFile: [d038-4e0a-0fc5-90de] SFI version check [1009] [1009]
+[2016.01.14 16:24:48] [0001m.39s.026ms] [0] SingleFile: [d038-4e0a-0fc5-90de] Database SFI header has been read in [1ms 806us]
+[2016.01.14 16:24:48] [0001m.39s.265ms] [1] iCDB Server PI: Stats: Database file sizes: before[130576 (127.5 kB)], after[82608 (80.7 kB)], gain[47968 (46.8 kB)]
+[2016.01.14 16:24:48] [0001m.39s.332ms] [0] Single file [D:\gorov\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database\icdb.dat] closed with size [82608 (80.7 kB)]
+[2016.01.14 16:24:48] [0001m.39s.332ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2016.01.14 16:24:48] [0001m.39s.332ms] [1] BackupTransaction: Removing database backup [D:\gorov\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database\cdbback\2016-01-14 16.24.48-5012-d.zip]
+[2016.01.14 16:24:48] [0001m.39s.333ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [55061] ticks
+[2016.01.14 16:24:48] [0001m.39s.333ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [21734] microseconds
+[2016.01.14 16:24:48] [0001m.39s.333ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [26]
+[2016.01.14 16:24:48] [0001m.39s.333ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [1196] commands per second
+[2016.01.14 16:24:48] [0001m.39s.458ms] [0] S: STOP

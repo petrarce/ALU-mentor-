@@ -1,0 +1,27 @@
+=======================================================================
+Expedition PCB - Pinnacle - Version 2013.0.543.380
+=======================================================================
+
+RELOAD CELLS
+
+Job Directory:  D:\gorov\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\PCB\
+
+
+Design Units:(th)
+
+Replace Cell Log:   repCellLog00.txt
+
+Thu Jan 14 19:31:53 2016
+
+Reference Designator            Cell Name                         New Cell Name
+===============================================================================
+
+
+---------------  RELOAD CELLS  Thu Jan 14 19:31:54 2016  ---------------
+
+
+
+
+---------------    Thu Jan 14 19:31:54 2016  ---------------
+
+

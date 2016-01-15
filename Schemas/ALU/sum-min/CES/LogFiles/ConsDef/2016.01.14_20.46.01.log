@@ -1,0 +1,24 @@
+Thu Jan 14 20:46:01 2016
+
+Project path: C:\Users\Ivan\Desktop\ALU-mentor--gorovenko-sum-min\sum-min\sum-min\database
+
+Loaded cns info: C:\MentorGraphics\7.9.5EE\SDD_HOME\standard\ce_ee.cns=7.10.24;C:\PADS Projects\user.cns=c302-1e36-1495-d6ce-0810-b665-810b-6650-5e21-cfaf-fb33-23c5
+Before global upgrade from version: 7.10.24 to version: 7.10.24
+
+BeforeGlobalUpgrade took 14ms, 0s
+
+Upgrade snapshot DxD
+UpgradeSnapshot took 4ms, 0s
+
+Upgrade snapshot Board1_layout_temp
+UpgradeSnapshot took 5ms, 0s
+
+Upgrade snapshot Board1
+UpgradeSnapshot took 4ms, 0s
+
+Upgrade snapshot RefSync
+UpgradeSnapshot took 5ms, 0s
+
+After global upgrade
+AfterGlobalUpgrade took 0ms, 0s
+

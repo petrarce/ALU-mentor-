@@ -1,0 +1,827 @@
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -lmc K:\KompElek\Alu-Mentor\SymbolLibs -parent flm -partition logic_ventil -- DM74LS08_AND.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor
+nse::opensymbol -partition logic_ventil DM74LS08_AND.1
+nse::selectitems 15
+nse::clearselection
+nse::selectitems 14
+port::settype -type in
+port::settype -type in
+nse::clearselection
+nse::selectitems 15
+port::settype -type in
+nse::clearselection
+nse::selectitems {6 7 8 16 35 37 39}
+nse::clearselection
+nse::savesymbol sid1
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -lmc K:\KompElek\Alu-Mentor\SymbolLibs -parent flm -partition logic_ventil -- DM74LS08_AND.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor
+nse::opensymbol -partition logic_ventil DM74LS08_AND.1
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -lmc K:\KompElek\Alu-Mentor\SymbolLibs -parent flm -partition logic_ventil -- DM74LS08_AND.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor
+nse::opensymbol -partition logic_ventil DM74LS08_AND.1
+nse::selectitems 8
+symbol::deleteitems 8
+nse::selectitems 9
+symbol::deleteitems 9
+nse::selectitems {2 3 4 5 6 7}
+nse::clearselection
+nse::selectitems {2 3 4 5 6 7}
+nse::clearselection
+nse::selectitems {2 3 4 5 6 7 21 23 25 27 29 31}
+nse::clearselection
+symbol::setoutline -rect 0,-35560,53340,35560
+symbol::setoutline -rect 2540,-35560,50800,35560
+nse::selectitems {2 3 4 5 6 7}
+edit::move -offset -2540,0
+nse::clearselection
+nse::selectitems {10 11 12 13 14 15}
+edit::move -offset 2540,0
+nse::clearselection
+nse::selectitems {2 3 4 5 6 7}
+nse::clearselection
+nse::selectitems {2 3 4 5 6 7}
+nse::clearselection
+nse::savesymbol
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -lmc K:\KompElek\Alu-Mentor\SymbolLibs -parent flm -partition logic_ventil -n -- DM74LS_OR.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor
+nse::newsymbol -partition logic_ventil DM74LS_OR.1
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -lmc K:\KompElek\Alu-Mentor\SymbolLibs -parent flm -partition logic_ventil -- DM74LS_OR.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor
+nse::opensymbol -partition logic_ventil DM74LS_OR.1
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -lmc K:\KompElek\Alu-Mentor\SymbolLibs -parent flm -partition logic_ventil -n -- DM74LS_XOR.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor
+nse::newsymbol -partition logic_ventil DM74LS_XOR.1
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -lmc K:\KompElek\Alu-Mentor\SymbolLibs -parent flm -partition logic_ventil -n -- DM74LS_XOR.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor
+nse::newsymbol -partition logic_ventil DM74LS_XOR.1
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -lmc K:\KompElek\Alu-Mentor\SymbolLibs -parent flm -partition logic_ventil -- DM74LS_XOR.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor
+nse::opensymbol -partition logic_ventil DM74LS_XOR.1
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -lmc K:\KompElek\Alu-Mentor\SymbolLibs -parent flm -partition logic_ventil -- DM74LS_XOR.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor
+nse::opensymbol -partition logic_ventil DM74LS_XOR.1
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -freezeinterface -lmc K:\KompElek\Alu-Mentor\SymbolLibs -parent flm -partition logic_ventil -- DM74LS08_AND.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor
+nse::opensymbol -freezeinterface -partition logic_ventil DM74LS08_AND.1
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -lmc K:\KompElek\Alu-Mentor\SymbolLibs -parent flm -partition logic_ventil -n -- 74LS04D_NOT.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor
+nse::newsymbol -partition logic_ventil 74LS04D_NOT.1
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -lmc K:\KompElek\Alu-Mentor\SymbolLibs -parent flm -partition logic_ventil -- 74LS04D_NOT.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor
+nse::opensymbol -partition logic_ventil 74LS04D_NOT.1
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -lmc K:\KompElek\Alu-Mentor\SymbolLibs -parent flm -partition logic_ventil -- AND.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor
+nse::opensymbol -partition logic_ventil AND.1
+nse::selectitems {2 3 4 5 6 7 8 9 10 11 12 13 20 21 22 23 24 25 26 27 28 29 30 31}
+nse::clearselection
+nse::selectitems {2 3 4 5 6 7}
+port::settype -type in
+nse::clearselection
+nse::selectitems 4
+port::settype -type out
+nse::clearselection
+nse::selectitems 7
+port::settype -type out
+nse::clearselection
+nse::selectitems {8 9 10 11 12 13}
+port::settype -type in
+nse::clearselection
+nse::selectitems 10
+nse::selectitems 13
+port::settype -type out
+nse::clearselection
+nse::savesymbol
+nse::selectitems 14
+item::setrect -rect 5080,-45720,20320,35560
+item::setrect -rect 5080,-40640,20320,30480
+nse::clearselection
+symbol::setoutline -rect 0,-50800,30480,43180
+symbol::setoutline -rect 0,-43180,30480,35560
+symbol::setorigin -point 0,-12700
+nse::savesymbol
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -lmc K:\KompElek\Alu-Mentor\SymbolLibs -parent flm -partition logic_ventil -n -- OR.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor
+nse::newsymbol -partition logic_ventil OR.1
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -lmc K:\KompElek\Alu-Mentor\SymbolLibs -parent flm -partition logic_ventil -n -- OR.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor
+nse::newsymbol -partition logic_ventil OR.1
+symbol::addport -name Log0 -pos -7620,-35560
+symbol::addport -name Log1 -pos -7620,-30480
+symbol::addport -name Log2 -pos -7620,-25400
+symbol::addport -name Log3 -pos -7620,-20320
+symbol::addport -name Log4 -pos -7620,-15240
+symbol::addport -name Log5 -pos -7620,-10160
+symbol::addport -name Log6 -pos -7620,-5080
+nse::selectitems 11
+item::setrect -rect 2540,-38100,17780,35560
+symbol::addport -name Log01 -pos 30480,-35560 -side right
+symbol::addport -name Log11 -pos 30480,-30480 -side right
+symbol::addport -name Log21 -pos 30480,-25400 -side right
+symbol::addport -name Log31 -pos 30480,-20320 -side right
+symbol::addport -name Log41 -pos 30480,-15240 -side right
+symbol::addport -name Log51 -pos 30480,-10160 -side right
+symbol::addport -name Log61 -pos 30480,-5080 -side right
+nse::deselectitems 11
+nse::selectitems 13
+nse::clearselection
+nse::selectitems 12
+nse::clearselection
+nse::selectitems 13
+port::rename -newname A1 12
+nse::clearselection
+nse::selectitems 15
+port::rename -newname B1 14
+nse::deselectitems 15
+nse::selectitems 17
+nse::clearselection
+nse::selectitems 17
+port::rename -newname Y1 16
+nse::deselectitems 17
+nse::selectitems 19
+port::rename -newname A2 18
+nse::clearselection
+nse::selectitems {12 14 16 18 20 22 24}
+nse::clearselection
+nse::selectitems {18 20}
+nse::clearselection
+nse::selectitems 20
+port::rename -newname B2
+nse::clearselection
+nse::selectitems 22
+port::rename -newname Y2
+nse::clearselection
+nse::selectitems {22 24}
+nse::clearselection
+nse::selectitems 24
+symbol::deleteitems
+nse::selectitems 38
+symbol::deleteitems
+nse::selectitems 27
+nse::deselectitems 27
+nse::selectitems 37
+port::rename -newname Y3 36
+nse::deselectitems 37
+nse::selectitems 35
+port::rename -newname A3 34
+port::rename -newname Log41 34
+nse::clearselection
+nse::selectitems 34
+port::rename -newname A3
+nse::deselectitems 34
+nse::selectitems 32
+port::rename -newname B3
+nse::clearselection
+nse::selectitems 30
+port::rename -newname Y4
+nse::deselectitems 30
+nse::selectitems 28
+port::rename -newname A4
+nse::deselectitems 28
+nse::selectitems 26
+port::rename -newname B4
+nse::clearselection
+nse::selectitems 11
+edit::move -offset 0,0
+item::setrect -rect 2540,-38100,17780,30480
+symbol::setoutline -rect 0,-48260,22860,43180
+symbol::setoutline -rect 0,-40640,22860,35560
+symbol::setoutline -rect -7620,-40640,30480,35560
+symbol::setoutline -rect -7620,-40640,40640,35560
+nse::clearselection
+nse::selectitems 16
+nse::selectitems 22
+nse::selectitems 30
+nse::selectitems 36
+prop::delete -valueindex 0 -dest port {Pin Type}
+# 'Pin Type' is read-only property
+nse::deselectitems {16 22 30 36}
+nse::selectitems 20
+nse::clearselection
+nse::selectitems 22
+port::settype -type in
+nse::clearselection
+nse::selectitems 16
+nse::clearselection
+nse::selectitems 16
+nse::selectitems 22
+nse::selectitems 30
+nse::selectitems 36
+port::settype -type out
+nse::clearselection
+nse::savesymbol
+nse::selectitems {11 12 13 14 15 16 17 18 19 20 21 22 23}
+nse::clearselection
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -lmc K:\KompElek\Alu-Mentor\SymbolLibs -parent flm -partition logic_ventil -- OR.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor
+nse::opensymbol -partition logic_ventil OR.1
+nse::selectitems {12 14 16 18 20 22 26 28 30 32 34 36 37 38 40 42 44 46 48 50 52 54 56 58 60}
+edit::copy
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -lmc K:\KompElek\Alu-Mentor\SymbolLibs -parent flm -partition logic_ventil -n -- XOR.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor
+nse::newsymbol -partition logic_ventil XOR.1
+nse::selectitems 11
+symbol::deleteitems
+edit::paste -point -2540,-38100
+nse::clearselection
+nse::selectitems {12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36}
+nse::clearselection
+nse::selectitems {13 15 17 19 21 23 25 27 29 31 33 35 36}
+nse::clearselection
+nse::selectitems {13 15 17 19 21 23 25 27 29 31 33 35 36}
+nse::clearselection
+nse::selectitems 17
+nse::clearselection
+symbol::setoutline -rect 0,-48260,38100,48260
+symbol::setoutline -rect -2540,-48260,40640,48260
+symbol::setoutline -rect -2540,-48260,40640,40640
+symbol::setoutline -rect -2540,-38100,40640,30480
+symbol::setorigin -point -2540,-7620
+nse::selectitems 13
+edit::move -offset 0,0
+nse::deselectitems 13
+nse::selectitems 15
+nse::clearselection
+nse::selectitems 17
+port::rename -newname Y17
+nse::clearselection
+nse::selectitems 17
+port::rename -newname Y1
+nse::deselectitems 17
+nse::selectitems 15
+port::setlabelvisible -true
+nse::deselectitems 15
+nse::selectitems 13
+nse::clearselection
+nse::selectitems {13 15 17 19 21 23}
+nse::selectitems {25 27 29 31 33 35}
+port::setlabelvisible -true
+nse::clearselection
+nse::selectitems 36
+nse::clearselection
+nse::selectitems {25 27 29 31 33 35 43 44 45 46 47 48}
+nse::deselectitems {25 27 29 31 33 35}
+edit::move -offset -4657,0
+nse::clearselection
+nse::selectitems {43 44 45 46 47 48}
+edit::move -offset 0,0
+nse::clearselection
+nse::savesymbol
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -lmc K:\KompElek\Alu-Mentor\SymbolLibs -parent flm -partition logic_ventil -n -- NOT.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor
+nse::newsymbol -partition logic_ventil NOT.1
+nse::selectitems 11
+symbol::deleteitems
+edit::paste -point -7620,-40640
+nse::clearselection
+nse::selectitems {12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36}
+nse::clearselection
+nse::selectitems {13 15 17 19 21 36}
+nse::clearselection
+nse::selectitems {13 15 17 19 21 23}
+nse::selectitems {25 27 29 31 33 35}
+port::setlabelvisible -true
+nse::clearselection
+nse::selectitems {25 27 29 31 33 35 43 44 45 46 47 48}
+nse::selectitems 36
+nse::clearselection
+nse::selectitems {25 27 29 31 33 35}
+nse::deselectitems {25 27 29 31 33 35}
+nse::selectitems {25 27 29 31 33 35 43 44 45 46 47 48}
+nse::deselectitems {25 27 29 31 33 35}
+edit::move -offset -4657,0
+nse::clearselection
+symbol::setoutline -rect 0,-48260,22860,40640
+symbol::setoutline -rect -7620,-48260,30480,40640
+symbol::setoutline -rect -7620,-48260,38100,40640
+symbol::setoutline -rect -7620,-43180,38100,35560
+symbol::setorigin -point 2540,-10160
+symbol::setorigin -point -10160,-2540
+nse::savesymbol
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -lmc K:\KompElek\Alu-Mentor\SymbolLibs -parent flm -partition logic_ventil -- XOR.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor
+nse::opensymbol -partition logic_ventil XOR.1
+symbol::setorigin -point 0,-2540
+nse::savesymbol
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -lmc K:\KompElek\Alu-Mentor\SymbolLibs -parent flm -partition logic_ventil -- OR.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor
+nse::opensymbol -partition logic_ventil OR.1
+symbol::setorigin -point -7620,-10160
+symbol::setoutline -rect 0,-30480,40640,33020
+symbol::setoutline -rect 0,-30480,40640,33020
+symbol::setoutline -rect 0,-27940,40640,30480
+nse::savesymbol sid1
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -lmc K:\KompElek\Alu-Mentor\SymbolLibs -parent flm -partition logic_ventil -- NOT.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor
+nse::opensymbol -partition logic_ventil NOT.1
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -lmc K:\KompElek\Alu-Mentor\SymbolLibs -parent flm -partition logic_ventil -- NOT.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor
+nse::opensymbol -partition logic_ventil NOT.1
+nse::selectitems 13
+nse::clearselection
+nse::selectitems 36
+nse::clearselection
+nse::selectitems {19 21 23 43 45 47}
+nse::clearselection
+nse::selectitems {19 21 43 45}
+nse::clearselection
+nse::selectitems 15
+nse::clearselection
+nse::selectitems {13 15 17 19 21 23}
+port::settype -type in
+nse::clearselection
+nse::selectitems {25 27 29 31 33 35}
+port::settype -type in
+nse::clearselection
+nse::selectitems 15
+nse::clearselection
+nse::selectitems 15
+edit::move -offset -20320,0
+nse::deselectitems 15
+nse::selectitems 25
+edit::move -offset 10160,0
+edit::move -offset 7620,-2540
+edit::move -offset 5080,2540
+nse::clearselection
+nse::selectitems 31
+edit::move -offset 22860,0
+nse::deselectitems 31
+nse::selectitems 21
+edit::move -offset -20320,0
+nse::deselectitems 21
+nse::selectitems 17
+edit::move -offset 0,-7620
+edit::move -offset 0,2540
+nse::deselectitems 17
+nse::selectitems 19
+edit::move -offset 0,-7620
+edit::move -offset 0,2540
+nse::deselectitems 19
+nse::selectitems 23
+edit::move -offset 0,-10160
+nse::deselectitems 23
+nse::selectitems 27
+port::setside -side left
+edit::move -offset -38100,15240
+edit::move -offset 43180,-12700
+nse::clearselection
+nse::selectitems 27
+port::setside -side right
+edit::move -offset -5080,-2540
+nse::clearselection
+nse::selectitems {33 35}
+port::setside -side left
+edit::move -offset -38100,0
+nse::clearselection
+nse::selectitems {27 29}
+edit::move -offset 0,15240
+nse::deselectitems {27 29}
+nse::selectitems 31
+edit::move -offset -22860,0
+nse::deselectitems 31
+nse::selectitems 25
+edit::move -offset -22860,10160
+nse::clearselection
+nse::selectitems {15 21}
+port::setside -side right
+edit::move -offset 60960,-15240
+edit::move -offset -2540,0
+nse::clearselection
+nse::selectitems 15
+edit::move -offset 0,10160
+nse::clearselection
+nse::selectitems 39
+nse::deselectitems 39
+nse::selectitems 55
+port::rename -newname Y5 31
+nse::deselectitems 55
+nse::selectitems 49
+port::rename -newname A5 25
+nse::deselectitems 49
+nse::selectitems 45
+port::rename -newname Y6 21
+port::rename -newname B2 21
+nse::deselectitems 45
+nse::selectitems 39
+nse::clearselection
+nse::selectitems 21
+port::rename -newname Y5
+nse::clearselection
+nse::selectitems 39
+nse::deselectitems 39
+nse::selectitems 55
+nse::deselectitems 55
+nse::selectitems 45
+port::rename -newname Y6 21
+nse::deselectitems 45
+nse::selectitems 39
+port::rename -newname A6 15
+nse::clearselection
+nse::selectitems 17
+nse::clearselection
+nse::selectitems 23
+nse::selectitems 17
+nse::selectitems 35
+nse::selectitems 29
+nse::clearselection
+nse::selectitems 31
+nse::selectitems 21
+nse::selectitems 29
+nse::selectitems 35
+nse::selectitems 23
+nse::selectitems 17
+port::settype -type out
+nse::clearselection
+nse::selectitems {13 17 19 23 33 35}
+port::setlength -length 5080
+nse::clearselection
+nse::selectitems {13 17 19 23 33 35}
+port::setlength -length 7620
+nse::clearselection
+nse::selectitems {13 17 19 23 33 35}
+edit::move -offset 2540,0
+nse::clearselection
+nse::selectitems {37 41 43 47}
+edit::move -offset -3048,0
+nse::clearselection
+nse::selectitems {57 59}
+edit::move -offset -2540,0
+edit::move -offset -2540,0
+edit::move -offset 2540,0
+nse::clearselection
+nse::selectitems {37 41 43 47}
+edit::move -offset 2540,0
+nse::clearselection
+nse::selectitems {49 51 53 55}
+nse::clearselection
+nse::selectitems {15 21 25 27 29 31}
+port::setlength -length 7620
+nse::clearselection
+nse::selectitems {15 21 25 27 29 31}
+edit::move -offset -2540,0
+symbol::setoutline -rect 0,-30480,35560,35560
+symbol::setoutline -rect 2540,-30480,33020,35560
+symbol::setorigin -point 2540,5080
+nse::savesymbol
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -freezeinterface -lmc K:\KompElek\Alu-Mentor\SymbolLibs -parent flm -partition logic_ventil -- AND.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor
+nse::opensymbol -freezeinterface -partition logic_ventil AND.1
+nse::selectitems {2 3 4 5 19 21 23 25}
+nse::clearselection
+nse::selectitems 14
+item::setrect -rect 5080,-27940,17780,30480
+nse::clearselection
+nse::selectitems {8 9 10 11 12 13}
+edit::move -offset -2540,0
+nse::clearselection
+symbol::setoutline -rect 0,-30480,27940,35560
+nse::savesymbol
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -freezeinterface -lmc K:\KompElek\Alu-Mentor\SymbolLibs -parent flm -partition logic_ventil -- AND.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor
+nse::opensymbol -freezeinterface -partition logic_ventil AND.1
+nse::selectitems 31
+nse::deselectitems 31
+nse::selectitems 14
+item::setrect -rect 5080,-27940,15240,30480
+nse::clearselection
+nse::selectitems {8 9 10 11 12 13 31 33 35 37 39 41}
+edit::move -offset -2540,0
+nse::clearselection
+nse::savesymbol
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -freezeinterface -lmc K:\KompElek\Alu-Mentor\SymbolLibs -parent flm -partition logic_ventil -- AND.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor
+nse::opensymbol -freezeinterface -partition logic_ventil AND.1
+nse::selectitems 14
+item::setrect -rect 5080,-27940,17780,30480
+nse::clearselection
+nse::selectitems {8 9 10 11 12 13}
+edit::move -offset 2540,0
+nse::clearselection
+nse::savesymbol
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -freezeinterface -lmc K:\KompElek\Alu-Mentor\SymbolLibs -parent flm -partition logic_ventil -- NOT.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor
+nse::opensymbol -freezeinterface -partition logic_ventil NOT.1
+nse::selectitems {15 21 25 27 29 31}
+port::setlength -length 5080
+nse::clearselection
+nse::selectitems {15 21 25 27 29 31}
+edit::move -offset -2540,0
+nse::clearselection
+nse::selectitems {13 17 19 23 33 35}
+port::setlength -length 2540
+nse::clearselection
+nse::selectitems {13 17 19 23 33 35}
+edit::move -offset 5080,0
+nse::clearselection
+nse::selectitems {15 21 25}
+nse::clearselection
+nse::selectitems {13 17 19 23 33 35}
+port::setlength -length 5080
+nse::clearselection
+nse::selectitems {13 17 19 23 33 35}
+edit::move -offset -2540,0
+nse::clearselection
+symbol::setoutline -rect 2540,-35560,30480,35560
+symbol::setoutline -rect 2540,-35560,27940,35560
+symbol::setoutline -rect 2540,-35560,27940,33020
+symbol::setoutline -rect 2540,-33020,27940,30480
+symbol::setorigin -point 2540,-5080
+nse::savesymbol sid1
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -freezeinterface -lmc K:\KompElek\Alu-Mentor\SymbolLibs -parent flm -partition logic_ventil -- OR.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor
+nse::opensymbol -freezeinterface -partition logic_ventil OR.1
+nse::selectitems {12 14 16 18 20 22}
+port::setlength -length 5080
+nse::clearselection
+nse::selectitems {26 28 30 32 34 36 37 50 52 54 56 58 60}
+nse::clearselection
+nse::selectitems {26 28 30 32 34 36}
+port::setlength -length 5080
+nse::clearselection
+nse::selectitems {26 28 30 32 34 36}
+edit::move -offset -5080,0
+nse::clearselection
+nse::selectitems {12 14 16 18 20 22}
+edit::move -offset 5080,0
+symbol::setoutline -rect 5080,-27940,35560,30480
+symbol::setoutline -rect 5080,-27940,27940,30480
+symbol::setorigin -point 5080,0
+nse::clearselection
+nse::savesymbol
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -freezeinterface -lmc K:\KompElek\Alu-Mentor\SymbolLibs -parent flm -partition logic_ventil -- XOR.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor
+nse::opensymbol -freezeinterface -partition logic_ventil XOR.1
+nse::selectitems {13 15 17 19 21 23}
+nse::clearselection
+nse::selectitems {25 27 29 31 33 35}
+nse::selectitems {13 15 17 19 21 23 36 37 39 41 43 45 47}
+nse::clearselection
+nse::selectitems {13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49 51 53 55 57 59}
+nse::clearselection
+nse::selectitems {13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49 51 53 55 57 59}
+port::setlength -length 5080
+nse::clearselection
+nse::selectitems {25 27 29 31 33 35}
+edit::move -offset -5080,0
+nse::clearselection
+nse::selectitems {13 15 17 19 21 23}
+edit::move -offset 5080,0
+nse::clearselection
+symbol::setoutline -rect 5080,-27940,35560,30480
+nse::selectitems 23
+nse::clearselection
+symbol::setorigin -point 5080,0
+symbol::setoutline -rect 0,-27940,27940,30480
+nse::savesymbol
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -freezeinterface -lmc K:\KompElek\Alu-Mentor\SymbolLibs -parent flm -partition logic_ventil -- AND.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor
+nse::opensymbol -freezeinterface -partition logic_ventil AND.1
+nse::selectitems 2
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -freezeinterface -lmc K:\KompElek\Alu-Mentor\SymbolLibs -parent flm -partition logic_ventil -- NOT.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor
+nse::opensymbol -freezeinterface -partition logic_ventil NOT.1
+nse::selectitems 19
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -freezeinterface -lmc K:\KompElek\Alu-Mentor\SymbolLibs -parent flm -partition logic_ventil -- NOT.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor
+nse::opensymbol -freezeinterface -partition logic_ventil NOT.1
+nse::selectitems 19
+nse::clearselection
+nse::selectitems {13 17 19 23 33 35}
+nse::clearselection
+nse::selectitems {15 21 25 27 29 31}
+nse::clearselection
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -freezeinterface -lmc K:\KompElek\Alu-Mentor\SymbolLibs -parent flm -partition logic_ventil -- NOT.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor
+nse::opensymbol -freezeinterface -partition logic_ventil NOT.1
+nse::selectitems {15 21 25 31 37 39 41 43 45 47 49 55}
+nse::clearselection
+nse::selectitems {13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49 51 53 55 57 59}
+nse::clearselection
+nse::selectitems {13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49 51 53 55 57 59}
+edit::move -offset 0,0
+nse::clearselection
+nse::savesymbol
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -lmc K:\KompElek\Alu-Mentor2\Library\SymbolLibs -parent flm -partition logic_ventil -n -- AND.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor2\\Library
+nse::newsymbol -partition logic_ventil AND.1
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -freezeinterface -lmc K:\KompElek\Alu-Mentor2\Library\SymbolLibs -parent flm -partition logic_ventil -- NOT.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor2\\Library
+nse::opensymbol -freezeinterface -partition logic_ventil NOT.1
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -freezeinterface -lmc K:\KompElek\Alu-Mentor2\Library\SymbolLibs -parent flm -partition logic_ventil -- OR.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor2\\Library
+nse::opensymbol -freezeinterface -partition logic_ventil OR.1
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -freezeinterface -lmc K:\KompElek\Alu-Mentor2\Library\SymbolLibs -parent flm -partition logic_ventil -- XOR.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor2\\Library
+nse::opensymbol -freezeinterface -partition logic_ventil XOR.1
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -freezeinterface -lmc K:\KompElek\Alu-Mentor2\Library\SymbolLibs -parent flm -partition logic_ventil -- AND.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor2\\Library
+nse::opensymbol -freezeinterface -partition logic_ventil AND.1
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -freezeinterface -lmc K:\KompElek\Alu-Mentor2\Library\SymbolLibs -parent flm -partition logic_ventil -- NOT.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor2\\Library
+nse::opensymbol -freezeinterface -partition logic_ventil NOT.1
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -freezeinterface -lmc K:\KompElek\Alu-Mentor2\Library\SymbolLibs -parent flm -partition logic_ventil -- OR.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor2\\Library
+nse::opensymbol -freezeinterface -partition logic_ventil OR.1
+nse::selectitems {38 40 42 44 46 48}
+edit::move -offset -5588,0
+nse::clearselection
+nse::selectitems {50 52 54 56 58 60}
+edit::move -offset 5588,0
+nse::savesymbol
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -freezeinterface -lmc K:\KompElek\Alu-Mentor2\Library\SymbolLibs -parent flm -partition logic_ventil -- XOR.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor2\\Library
+nse::opensymbol -freezeinterface -partition logic_ventil XOR.1
+nse::selectitems {37 39 41 43 45 47}
+edit::move -offset -5588,0
+nse::clearselection
+nse::selectitems {49 51 53 55 57 59}
+edit::move -offset 5080,0
+nse::savesymbol
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -freezeinterface -lmc K:\KompElek\Alu-Mentor2\Library\SymbolLibs -parent flm -partition logic_ventil -- NOT.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor2\\Library
+nse::opensymbol -freezeinterface -partition logic_ventil NOT.1
+nse::selectitems {37 41 43 47 57 59}
+edit::move -offset -5080,0
+nse::clearselection
+nse::selectitems {49 51 55}
+nse::clearselection
+nse::selectitems {49 51 53 55}
+edit::move -offset 2540,0
+nse::clearselection
+nse::selectitems {39 45 49 51 53 55}
+edit::move -offset 2540,0
+nse::clearselection
+nse::selectitems {57 59}
+edit::move -offset 2540,0
+edit::move -offset -2540,0
+nse::clearselection
+nse::savesymbol
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -lmc K:\KompElek\Alu-Mentor2\Library\SymbolLibs -parent flm -partition Registers -n -- 8BitPSRegister.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor2\\Library
+nse::newsymbol -partition Registers 8BitPSRegister.1
+symbol::setoutline -rect 0,-48260,38100,48260
+symbol::setoutline -rect 0,-48260,38100,73660
+symbol::setoutline -rect 0,-55880,38100,81280
+symbol::setorigin -point -2540,25400
+symbol::addport -name IN13 -pos -5080,-68580
+symbol::addport -name IN12 -pos -5080,-63500
+symbol::addport -name IN11 -pos -5080,-58420
+symbol::addport -name IN10 -pos -5080,-53340
+symbol::addport -name IN9 -pos -5080,-48260
+symbol::addport -name IN8 -pos -5080,-43180
+symbol::addport -name IN7 -pos -5080,-38100
+symbol::addport -name IN6 -pos -5080,-33020
+symbol::addport -name IN5 -pos -5080,-27940
+symbol::addport -name IN4 -pos -5080,-22860
+symbol::addport -name IN3 -pos -5080,-17780
+symbol::addport -name IN2 -pos -5080,-12700
+symbol::addport -name IN1 -pos -5080,-7620
+symbol::addport -name IN0 -pos -5080,-2540
+symbol::setoutline -rect 2540,-81280,38100,91440
+nse::selectitems {12 14 16 18 20 22 24 26 28 30 32 34 36 38}
+symbol::deleteitems
+symbol::addport -name IN0 -pos -5080,-68580
+symbol::addport -name IN1 -pos -5080,-63500
+symbol::addport -name IN2 -pos -5080,-58420
+symbol::addport -name IN3 -pos -5080,-53340
+symbol::addport -name IN4 -pos -5080,-48260
+symbol::addport -name IN5 -pos -5080,-43180
+symbol::addport -name IN6 -pos -5080,-38100
+symbol::addport -name IN7 -pos -5080,-33020
+symbol::addport -name IN8 -pos -5080,-27940
+symbol::addport -name IN9 -pos -5080,-22860
+symbol::addport -name IN10 -pos -5080,-17780
+symbol::addport -name IN11 -pos -5080,-12700
+symbol::addport -name IN12 -pos -5080,-7620
+symbol::addport -name IN13 -pos -5080,-2540
+nse::selectitems 11
+item::setrect -rect 5080,-71120,17780,71120
+item::setrect -rect 5080,-71120,25400,71120
+symbol::addport -name OUT0 -type out -pos 40640,-68580 -side right
+symbol::addport -name OUT1 -type out -pos 40640,-63500 -side right
+symbol::addport -name OUT2 -type out -pos 40640,-58420 -side right
+symbol::addport -name OUT3 -type out -pos 40640,-53340 -side right
+symbol::addport -name OUT4 -type out -pos 40640,-48260 -side right
+symbol::addport -name OUT5 -type out -pos 40640,-43180 -side right
+symbol::addport -name OUT6 -type out -pos 40640,-38100 -side right
+symbol::addport -name OUT7 -type out -pos 40640,-33020 -side right
+nse::clearselection
+nse::selectitems 22
+nse::clearselection
+nse::selectitems {54 56 58 60 62 64 66 68}
+nse::selectitems {12 14 16 18 20 22 24 26 28 30 32 34 36 38}
+port::setlength -length 5080
+nse::clearselection
+nse::selectitems {12 14 16 18 20 22 24 26 28 30 32 34 36 38}
+edit::move -offset 5080,0
+nse::clearselection
+nse::selectitems {54 56 58 60 62 64 66 68}
+edit::move -offset -5080,0
+nse::clearselection
+nse::selectitems 11
+nse::clearselection
+nse::selectitems {11 55 57 59 61 63 65 67 69}
+edit::move -offset 0,0
+nse::clearselection
+nse::selectitems {55 57 59 61 63 65 67 69}
+edit::move -offset 2963,0
+nse::clearselection
+nse::selectitems {40 41 42 43 44 45 46 47 48 49 50 51 52 53}
+edit::move -offset -2963,0
+nse::clearselection
+nse::selectitems {11 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69}
+edit::move -offset 2540,0
+nse::clearselection
+symbol::setoutline -rect 2540,-81280,35560,91440
+symbol::setoutline -rect 2540,-73660,35560,83820
+symbol::setoutline -rect 2540,-73660,35560,76200
+symbol::setorigin -point 2540,-2540
+nse::savesymbol
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -lmc K:\KompElek\Alu-Mentor2\Library\SymbolLibs -parent flm -partition Registers -- 8BitPSRegister.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor2\\Library
+nse::opensymbol -partition Registers 8BitPSRegister.1
+nse::selectitems 22
+port::rename -newname SL
+nse::clearselection
+nse::selectitems 20
+port::rename -newname SR
+nse::deselectitems 20
+nse::selectitems 18
+port::rename -newname S0
+nse::clearselection
+nse::selectitems 16
+port::rename -newname S1
+nse::clearselection
+nse::selectitems 14
+port::rename -newname _CLR
+nse::deselectitems 14
+nse::selectitems 12
+port::rename -newname CLK
+nse::clearselection
+nse::savesymbol sid1
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -lmc K:\KompElek\Alu-Mentor2\Library\SymbolLibs -parent flm -partition Registers -n -- 4BitPSRegister.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor2\\Library
+nse::newsymbol -partition Registers 4BitPSRegister.1
+nse::opensymbol -partition Registers 8BitPSRegister.1
+nse::selectitems {12 14 16 18 20 22 24 26 28 30 32 34 36 38 54 56 58 60 62 64 66 68 69 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112}
+edit::copy
+nse::closesymbol
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -lmc K:\KompElek\Alu-Mentor2\Library\SymbolLibs -parent flm -partition Registers -- 4BitPSRegister.1 
+nse::setmode -lmc K:\\KompElek\\Alu-Mentor2\\Library
+nse::opensymbol -partition Registers 4BitPSRegister.1
+nse::selectitems {24 26 28 30}
+symbol::deleteitems
+nse::selectitems {62 64 66 68}
+symbol::deleteitems
+nse::selectitems {12 14 16 18 20 22}
+edit::move -offset 0,-20320
+nse::deselectitems {12 14 16 18 20 22}
+nse::selectitems 69
+item::setrect -rect 5080,-68580,25400,50800
+symbol::setoutline -rect 0,-71120,35560,55880
+symbol::setorigin -point 0,-20320
+nse::savesymbol
+nse::closesymbol
